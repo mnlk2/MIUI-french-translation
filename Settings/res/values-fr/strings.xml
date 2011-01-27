@@ -1283,4 +1283,7 @@
     <string name="reboot_dialog_msg">Voulez-vous redémarrer le téléphone?</string>
     <string name="reboot">Redémarrer</string>
     <string name="sdext_unavailable">Ce dispositif ne supporte pas A2SD +</string>
+    <string name="search_label">Recherche</string>
+    <string name="search_hint">Paramètres de recherche</string>
+    <string name="search_description">Paramètres de recherche</string>
 </resources>

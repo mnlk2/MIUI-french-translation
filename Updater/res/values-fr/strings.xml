@@ -97,7 +97,7 @@
     <string name="unable_to_flash_recovery">Impossible de flasher le recovery</string>
     <string name="flash_recovery_successfully">Flash du recovery correctement effectué</string>
     <string name="reflash_recovery">Install. recovery MIUI</string>
-    <string name="boot_recovery">Mode recovery</string>
+    <string name="boot_recovery">Reboot recovery</string>
     <string name="flash_recovery_dialog_message">Flasher le recovery</string>
     <string name="applying_rom_message">Installation de la mise à jour...</string>
     <string name="loading">Connexion a MIUI</string>

@@ -884,6 +884,7 @@
     <string name="global_action_toggle_privacy_mode">Mode de confidentialité</string>
     <string name="global_action_privacy_mode_on_status">Mode de confidentialité activée.</string>
     <string name="global_action_privacy_mode_on_toast">Mode discret Activé. Les appels et SMS sont cachés, et le bureau ne peut pas entrer en mode édition.</string>
+    <string name="global_action_privacy_mode_dialog_message">Les appels et SMS seront cachés, et le bureau ne pourra pas entrer en mode édition. Continuer?</string>
     <string name="global_action_privacy_mode_off_status">Mode de confidentialité désactivé</string>
     <string name="first_back_long_press_title">Comportement du bonton Retour</string>
     <string name="first_back_long_press_message">Voulez-vous ouvrir les paramètres pression longue sur la touche Retour pour arrêter le processus en cours et son services? \n\n Sinon allez dans Paramètres -> Système -> bouton</string>

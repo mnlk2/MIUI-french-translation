@@ -135,9 +135,9 @@
     <string name="pref_summary_auto_delete">Supprimer lorsque les limites suivantes sont atteintes</string>
     <string name="pref_summary_delete_limit">%1$s messages par conversation</string>
     <string name="pref_title_manage_sim_messages">Gestion messages carte SIM</string>
-    <string name="pref_title_mms_delivery_reports">Accusés de réception MMS</string>
+    <string name="pref_title_mms_delivery_reports">Accusés réception MMS</string>
     <string name="pref_title_mms_read_reports">Confirmations de lecture</string>
-    <string name="pref_title_sms_delivery_reports">Accusés de réception SMS</string>
+    <string name="pref_title_sms_delivery_reports">Accusés réception SMS</string>
     <string name="pref_title_auto_delete">Anciens messages</string>
     <string name="pref_title_sms_delete">Limite pour les SMS</string>
     <string name="pref_title_mms_delete">Limite pour les MMS</string>
@@ -349,6 +349,7 @@
     <string name="add_phrase">Ajout rep. rapide</string>
     <string name="add_contact">Contacts</string>
     <string name="add_nickname">Pseudo</string>
+    <string name="add_festival">Festival</string>
     <string name="add_smsbookmark">Favoris</string>
     <string name="goto_sms_bookmark">SMS favoris</string>
     <string name="choose_phrase">rep. rapide</string>
@@ -430,4 +431,12 @@
     <string name="group_resend">%d messages n\'ont pu être envoyer, renvoyez?</string>
     <string name="group_send_sucess_count">%d envoyé</string>
     <string name="group_failed_cancel">Annuler</string>
+    <string name="add_nickname_title">Ajouter Pseudo</string>
+    <string name="attachment_panel_smiley">smiley</string>
+    <string name="attachment_panel_attachment">attachement</string>
+    <string name="new_phrase">Nouveau message rapide</string>
+    <string name="edit_phrase">Modifier les messages rapides</string>
+    <string name="new_phrase_hint">Entrée</string>
+    <string name="sms_phrase_welcome">Pour ajouter un nouveau message clickez sur \"Nouveau message\"</string>
+    <string name="random_pick">Aléatoire</string>
 </resources>

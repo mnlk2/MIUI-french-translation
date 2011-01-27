@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="app_name">Galerie MIUI</string>
+    <string name="media_file_format_support">Formats supportés</string>
+    <string name="support_gif_animation">Afficher les .gif</string>
+    <string name="support_gif_animation_summary">Peut affecter les performances et consomment plus de mémoire</string>
+    <string name="filter_small_image">Filtrage des miniature</string>
+    <string name="image_size_threshold">Seuil de taille d\'image (Ko)</string>
+    <string name="image_size_threshold_summary">La aille de l\'image ne soit pas inférieure à la valeur du seuil d\'affichage</string>
+    <string name="image_size_threshold_dialog_title">Seuil de fichier</string>
+    <string name="warning_rescan_sdcard">Le scan de la carte SD mettra à jour tous les fichiers photos, vidéo et musique, et peut  durer un long moment, Continuer?</string>
+    <string name="view_preference">Filtrage (sauf pour les fichiers vidéo)</string>
     <string name="front_title">Galerie</string>
+    <string name="global_setting">Paramètres</string>
+    <string name="clear_cache_file">Vider le cache</string>
     <string name="absence_of_sdcard">Carte SD absente</string>
     <string name="no_files">Aucun fichier</string>
     <string name="select_all">Tout sélectionner</string>
@@ -9,9 +20,11 @@
     <string name="send">Envoyer</string>
     <string name="save">Enregistrer</string>
     <string name="save_to_sdcard">Enregistrer sur la Carte SD</string>
+    <string name="rescan_sdcard">Re-scan la carte SD</string>
     <string name="cancel">Annuler</string>
     <string name="ok">OK</string>
     <string name="open_single_image_failure">L\'ouverture de l\'image a échoué!</string>
+    <string name="already_saved">Vous avez déjà enregistré l\'image, dans %s</string>
     <string name="failure_external_storage_not_writable">Le périphérique de stockage externe ne peut pas être écris, l\'opération a échoué!</string>
     <string name="save_pic_error">L\'enregistrement de l\'image a échoué!</string>
     <string name="save_pic_to_success">Sauvegarde l\'image réussi!</string>
@@ -34,7 +47,9 @@
     <string name="send_method">Méthode d\'envois</string>
     <string name="hide_this_folder">Cacher ce dossier</string>
     <string name="play_video">Lire</string>
-    <string name="set_wallpaper">Définir le fond d\'écran</string>
+    <string name="set_wallpaper">Définir comme fond d\'écran</string>
+    <string name="set_lockscreen">Définir comme fond d\'écran de verrouillage</string>
+    <string name="set_contact_photo">Définir comme image de contact</string>
     <string name="cancel_hide">Afficher</string>
     <string name="folder">Dossier</string>
     <string name="file">Fichier</string>
@@ -55,6 +70,7 @@
     <string name="turn_left">Pivoter à gauche</string>
     <string name="turn_right">Pivoter à droite</string>
     <string name="disallowed_turn_left_or_right">l\'Aperçu vidéo ne permet pas la rotation</string>
+    <string name="disallowed_set_contact_photo">l\'Aperçu vidéo ne permet pas d\'être défini comme image de contact</string>
     <string name="more">Plus</string>
     <string name="running_face_detection">Reconnaissance de visage en cours, veuillez patienté...</string>
     <string name="running_setup_highlight">Calcul de la zone de recadrage, veuillez patienté ...</string>

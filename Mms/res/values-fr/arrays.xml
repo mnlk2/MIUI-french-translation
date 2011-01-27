@@ -1,5 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <string-array name="extend_smiley_texts">
+        <item>::>_&amp;lt;::</item>
+        <item>&amp;lt;_>¦¦¦</item>
+        <item>~~~^_^~~~</item>
+        <item>~~~(>_&amp;lt;)~~~</item>
+        <item>╮〔╯ε╰〕╭</item>
+        <item>^_^/~~</item>
+        <item>o∩_∩o</item>
+        <item>°ο°/~</item>
+        <item>^_^)Y</item>
+        <item>-ิo-ิ</item>
+        <item>^(oo)^</item>
+        <item>~o~/~</item>
+        <item>*^o^*</item>
+        <item>ˋ_ˊ¦¦</item>
+        <item>○^~^○</item>
+        <item>\#^_^</item>
+        <item>^口^</item>
+        <item>人^人</item>
+        <item>^人^</item>
+        <item>一-一</item>
+        <item>π_π</item>
+        <item>\@ο@</item>
+        <item>:-x</item>
+        <item>T_T</item>
+        <item>Ｏrz</item>
+        <item>:-P</item>
+        <item>:-O</item>
+        <item>︶︿︶</item>
+        <item>╯^╰</item>
+        <item>〒_〒</item>
+        <item>;-(</item>
+        <item>:-(</item>
+        <item>;-></item>
+        <item>∩_∩</item>
+        <item>%-)</item>
+        <item>→_→</item>
+        <item>¯^¯</item>
+        <item>⊙⊙?</item>
+        <item>⊙.⊙</item>
+        <item>:-@</item>
+        <item>;-)</item>
+        <item>^÷^</item>
+        <item>:-@</item>
+        <item>╰_╯</item>
+        <item>ˋ^ˊ</item>
+        <item>:-/</item>
+        <item>:-*</item>
+        <item>:-)</item>
+        <item>^_^</item>
+        <item>$_$</item>
+        <item>:-></item>
+        <item>:-D</item>
+        <item>B-)</item>
+        <item>b_d</item>
+        <item>:P</item>
+        <item>ōk</item>
+        <item>∠※</item>
+        <item>:-</item>
+        <item>:)</item>
+        <item>:(</item>
+        <item>:D</item>
+    </string-array>
     <string-array name="default_smiley_texts">
         <item>:-D</item>
         <item>:-P</item>
@@ -44,13 +107,13 @@
         <item>Blanc</item>
         <item>Vert</item>
         <item>Rouge</item>
-        <item>Orange</item>
+        <item>Bleu</item>
         <item>Jaune</item>
         <item>Cyan</item>
         <item>Rouge-violet</item>
         <item>Rose</item>
         <item>Bleu ciel</item>
-        <item>Bleu</item>
+        <item>Orange</item>
     </string-array>
     <string-array name="led_color_values">
         <item>white</item>

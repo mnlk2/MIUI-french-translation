@@ -8,6 +8,7 @@
     <string name="theme_sdcard_missed_dialog_message">Assurez-vous que la carte mémoire est insérée, et que le téléphone n\'est pas en mode de transfert de données。</string>
     <string name="theme_changing_dialog_title">Appliquer le thème</string>
     <string name="theme_changed_message">Configuration réussie!</string>
+    <string name="theme_changed_failed_message">Configuration échouée!</string>
     <string name="theme_delete_confirm_dialog_title">Supprimer tous les thèmes</string>
     <string name="theme_delete_confirm_dialog_message">Cette action n\'affecte pas l\'effet du thème actuel, il suffit de retirer les fichiers du thème</string>
     <string name="theme_activity_lable">Thème</string>
@@ -28,7 +29,8 @@
     <string name="backup_theme_failed_message">La sauvegarde a échoué!</string>
     <string name="backup_theme_file_name">Mon thème</string>
     <string name="theme_description_missed">Aucune</string>
-    <string name="theme_description_default_title">Par défaut</string>
+    <string name="theme_description_title_default">Par défaut</string>
+    <string name="theme_description_title_customized">Personnaliser</string>
     <string name="theme_description_nickname">Auteur：</string>
     <string name="theme_description_author">Auteur：</string>
     <string name="theme_description_size">Taille：</string>
@@ -42,11 +44,14 @@
     <string name="theme_component_title_framework">Système</string>
     <string name="theme_component_title_mms">MMS</string>
     <string name="theme_component_title_wallpaper">Fond d\'écran</string>
-    <string name="theme_component_title_lockwallpaper">Fond d\'écran (verrouillage)</string>
+    <string name="theme_component_title_lockwallpaper">Verrouillage</string>
     <string name="theme_component_title_icon">Icones</string>
     <string name="theme_component_title_boot_animation">Animation de démarrage</string>
     <string name="theme_component_title_boot_audio">Son de démarrage</string>
     <string name="theme_component_title_font">Police</string>
+    <string name="theme_component_title_ringtone">Sonneries</string>
+    <string name="theme_component_title_notification">Notifications</string>
+    <string name="theme_component_title_alarm">Alarmes</string>
     <string name="theme_component_title_others">Autre</string>
     <string name="theme_component_title_all">Thèmes</string>
     <string name="component_preference_author_prefix">par %1$s</string>
@@ -55,10 +60,10 @@
     <string name="customize_mms_list">Liste personnalisée</string>
     <string name="customize_mms_conversation">Personnaliser la page de discussion</string>
     <string name="pick_theme_title">Sélectionner un thème</string>
-    <string name="apply_default_theme_title">Par défaut</string>
-    <string name="apply_default_theme_message">Le téléphone va redémarrer pour rétablir le thème %1$s\ncontinuer?</string>
-    <string name="apply_theme_reboot_confirm_message">L\'application redémarre le téléphone, continuer?</string>
+    <string name="apply_theme_content_caution">Ce thème contient： %1$s\n\n</string>
+    <string name="apply_theme_reboot_confirm_message">L\'application redémarrera le téléphone, continuer?</string>
     <string name="theme_preview_preference_brief_prefix">Description:</string>
+    <string name="list_section_header_backup">Sauvegardé</string>
     <string name="list_section_header_builtin">Inclus</string>
     <string name="list_section_header_downloaded">Téléchargés</string>
     <string name="theme_local">%1$s Local</string>

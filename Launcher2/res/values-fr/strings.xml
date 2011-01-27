@@ -57,7 +57,8 @@
     <string name="pick_lockscreenwallpaper">Fond d\'écran (verrouillage)</string>
     <string name="lockscreenwallpaper_instructions">Sélectionner</string>
     <string name="failed_to_drop">Déplacement échoué</string>
-    <string name="failed_to_drop_widget">Déplacement du widget échoué</string>
+    <string name="failed_to_drop_widget_nospace">Déplacement du widget échoué</string>
+    <string name="failed_to_drop_widget_invalid">Déplacement du widget échoué</string>
     <string name="widget_box_usage_hint">Glisser et déposer le widget sur l\'écran cible</string>
     <string name="widget_favorite_contacts_lable">Label</string>
     <string name="widget_favorite_contacts_edit">Editer</string>
