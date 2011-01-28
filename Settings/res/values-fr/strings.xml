@@ -1180,7 +1180,7 @@
     <string name="current_version">Version actuelle:%s</string>
     <string name="sd_available_size">%s disponible</string>
     <string name="device_overview_sd_shared">dans la carte SD</string>
-    <string name="device_overview">Modèle: %s\n\nVersion d\'android: %s\n\nCarte SD: %s Disponible\n\nMémoire: %s Disponible</string>
+    <string name="device_overview">Modèle: %s\n\nVersion d\'android: %s\n\nCarte SD: %s\n\nMémoire: %s disponible</string>
     <string name="battery_level">Niveau de charge:%d</string>
     <string name="click_to_input">Cliquez pour écrire</string>
     <string name="data_service">Service de données</string>
