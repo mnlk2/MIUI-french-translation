@@ -432,6 +432,8 @@
     <string name="group_send_sucess_count">%d envoyé</string>
     <string name="group_failed_cancel">Annuler</string>
     <string name="add_nickname_title">Ajouter Pseudo</string>
+    <string name="edit_nickname_for_nocontact">Vous n\'avez pas ajouté de destinataire. Veuillez ajoutez un destinataire</string>
+    <string name="edit_nickname_for_nocontact_by_robot">Une fois ajoutez un destinataire, cliquez sur le "Surnom" afin de le modifier</string>
     <string name="attachment_panel_smiley">smiley</string>
     <string name="attachment_panel_attachment">attachement</string>
     <string name="new_phrase">Nouveau message rapide</string>

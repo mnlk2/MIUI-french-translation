@@ -13,41 +13,11 @@
         <item>mms</item>
     </string-array>
     <array name="video_quality_icons">
-        <item>@drawable/ic_viewfinder_video_quality_720p</item>
-        <item>@drawable/ic_viewfinder_video_quality_high</item>
-        <item>@drawable/ic_viewfinder_video_quality_low</item>
-        <item>@drawable/ic_viewfinder_video_quality_mms</item>
+        <item>@drawable/ic_quality_720p</item>
+        <item>@drawable/ic_quality_high</item>
+        <item>@drawable/ic_quality_low</item>
+        <item>@drawable/ic_quality_mms</item>
     </array>
-    <array name="pref_camera_picturesize_entries">
-        <item>@string/pref_camera_picturesize_entry_2592x1936</item>
-        <item>@string/pref_camera_picturesize_entry_2592x1936</item>
-        <item>@string/pref_camera_picturesize_entry_2048x1536</item>
-        <item>@string/pref_camera_picturesize_entry_1600x1200</item>
-        <item>@string/pref_camera_picturesize_entry_1024x768</item>
-        <item>@string/pref_camera_picturesize_entry_320x240</item>
-    </array>
-    <string-array name="pref_camera_picturesize_entryvalues">
-        <item>2592x1952</item>
-        <item>2592x1936</item>
-        <item>2048x1536</item>
-        <item>1600x1200</item>
-        <item>1024x768</item>
-        <item>320x240</item>
-    </string-array>
-    <string-array name="camera_picturesize_large_entryvalues">
-        <item>2592x1952</item>
-        <item>2592x1936</item>
-        <item>2048x1536</item>
-    </string-array>
-    <string-array name="camera_picturesize_middle_entryvalues">
-        <item>1600x1200</item>
-        <item>1024x768</item>
-        <item>1280x960</item>
-    </string-array>
-    <string-array name="camera_picturesize_small_entryvalues">
-        <item>640x480</item>
-        <item>320x240</item>
-    </string-array>
     <array name="pref_camera_jpegquality_entries">
         <item>@string/pref_camera_jpegquality_entry_superfine</item>
         <item>@string/pref_camera_jpegquality_entry_fine</item>
@@ -79,14 +49,9 @@
         <item>off</item>
     </string-array>
     <array name="pref_camera_flashmode_icons">
-        <item>@drawable/ic_menuselect_flash_auto</item>
-        <item>@drawable/ic_menuselect_flash_on</item>
-        <item>@drawable/ic_menuselect_flash_off</item>
-    </array>
-    <array name="flashmode_icons">
-        <item>@drawable/ic_viewfinder_flash_auto</item>
-        <item>@drawable/ic_viewfinder_flash_on</item>
-        <item>@drawable/ic_viewfinder_flash_off</item>
+        <item>@drawable/ic_flash_auto</item>
+        <item>@drawable/ic_flash_on</item>
+        <item>@drawable/ic_flash_off</item>
     </array>
     <array name="pref_camera_video_flashmode_entries">
         <item>@string/pref_camera_flashmode_entry_on</item>
@@ -97,12 +62,12 @@
         <item>off</item>
     </string-array>
     <array name="pref_camera_video_flashmode_icons">
-        <item>@drawable/ic_menuselect_flash_on</item>
-        <item>@drawable/ic_menuselect_flash_off</item>
+        <item>@drawable/ic_flash_on</item>
+        <item>@drawable/ic_flash_off</item>
     </array>
     <array name="video_flashmode_icons">
-        <item>@drawable/ic_viewfinder_flash_on</item>
-        <item>@drawable/ic_viewfinder_flash_off</item>
+        <item>@drawable/ic_flash_on</item>
+        <item>@drawable/ic_flash_off</item>
     </array>
     <string-array name="pref_camera_recordlocation_entryvalues">
         <item>off</item>
