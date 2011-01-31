@@ -24,10 +24,9 @@
     <string name="component_category_title">Changer le style local</string>
     <string name="backup_preference_title">Sauvegarder les paramètres de thème actuel</string>
     <string name="backup_theme_dialog_ok">Ok</string>
-    <string name="backup_theme_dialog_message">Retour à la rubrique en cours\nCarte SD/MIUI/theme\nNom “%1$s”</string>
+    <string name="backup_theme_dialog_message">Sauvegarde le thème actuel dans : \nCarte SD/MIUI/theme/backup/backup.mtz</string>
     <string name="backup_theme_progress_message">Sauvegarde ...</string>
     <string name="backup_theme_failed_message">La sauvegarde a échoué!</string>
-    <string name="backup_theme_file_name">Mon thème</string>
     <string name="theme_description_missed">Aucune</string>
     <string name="theme_description_title_default">Par défaut</string>
     <string name="theme_description_title_customized">Personnaliser</string>
