@@ -481,10 +481,10 @@
     <string name="call_reject_hint">Glisser pour refuser</string>
     <string name="hangup_sms">Appuyer sur Menu pour rejeter l\'appel et répondre par SMS</string>
     <string name="hangup_sms_body">Je suis actuellement occupé(e), je te/vous rappelle plus tard</string>
-    <string name="onscreenNoteText">Historique</string>
-    <string name="onscreenNoteForTxt">Texte</string>
-    <string name="onscreenNoteForCall">Enregistrement</string>
-    <string name="onscreenNoteStopCall">Arrêter l\'enregistrement</string>
+    <string name="onscreenNoteText">Plus</string>
+    <string name="onscreenNoteForTxt">SMS</string>
+    <string name="onscreenNoteForCall">REC.</string>
+    <string name="onscreenNoteStopCall">STOP</string>
     <string name="recordCall_sd_error">Erreur d\'accès à la carte SD. Inséréz la carte SD avant d\'enregistrer</string>
     <string name="recordCall_sample_prefix">MIUI _</string>
     <string name="recordCall_save">Le fichier est enregistré sur la carte SD\n%s</string>

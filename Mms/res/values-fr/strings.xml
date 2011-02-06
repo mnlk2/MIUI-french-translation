@@ -303,6 +303,7 @@
     <string name="notification_color_title_for_led">Clignotement de la LED</string>
     <string name="group_msg_contact_title">Envoyé à: %s</string>
     <string name="single_msg_contact_title">%s</string>
+    <string name="loading_forwarded_slideshow">Chargement...</string>
     <string name="sms_bookmark_welcome">Vous n\'avez sauvegardé aucun message. Pour les sauvegarder appuyez sur un message et sélectionnez ajouter aux favoris</string>
     <string name="mms_increase_font_size">Zoomer le texte</string>
     <string name="mms_decrease_font_size">Dé-zoomer le texte</string>
