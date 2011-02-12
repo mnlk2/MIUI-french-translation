@@ -28,4 +28,7 @@
     <string name="search_engine_baidu">Baidu</string>
     <string name="default_web_search_engine_google">http://www.google.fr/m/search?q=</string>
     <string name="default_web_search_engine_baidu">http://m.baidu.com/ssid=0/from=0/bd_page_type=1/s?word=</string>
+    <string name="recent_dialog_buttonAppKiller_summary">MIUI a libéré votre mémoire de %1$s\nmémoire actuellement disponibles: %2$s</string>
+    <string name="recent_dialog_buttonAppKiller">Tuer</string>
+    <string name="recent_dialog_buttonTaskManager">Gérer</string>
 </resources>

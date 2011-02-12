@@ -346,7 +346,9 @@
     <string name="batch_delete_confrom_dialog_message">Supprimer les messages sélectionnés</string>
     <string name="btn_delete_with_number">Supprimer(%d)</string>
     <string name="update_failed">La mise à jour a échoué</string>
-    <string name="delivery_report_disable">Accusé de réception désactivé</string>
+    <string name="delivery_report_none">Accusé désactivé</string>
+    <string name="delivery_report_failed">Échec de l\'envoi</string>
+    <string name="delivery_report_pending">Le message a été reçu</string>
     <string name="add_phrase">Ajout rep. rapide</string>
     <string name="add_contact">Contacts</string>
     <string name="add_nickname">Pseudo</string>

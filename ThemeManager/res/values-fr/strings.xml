@@ -30,6 +30,7 @@
     <string name="theme_description_missed">Aucune</string>
     <string name="theme_description_title_default">Par défaut</string>
     <string name="theme_description_title_customized">Personnaliser</string>
+    <string name="theme_description_title_mute">Muet</string>
     <string name="theme_description_nickname">Auteur：</string>
     <string name="theme_description_author">Auteur：</string>
     <string name="theme_description_size">Taille：</string>
@@ -38,7 +39,6 @@
     <string name="theme_description_version">Version： </string>
     <string name="theme_description_version_vertical">\u0020| Version:</string>
     <string name="theme_description_reboot">(redémarrage nécessaire)</string>
-    <string name="theme_description_old_version">Ancienne version</string>
     <string name="theme_component_title_prefix">Actuel: %1$s</string>
     <string name="theme_component_title_framework">Système</string>
     <string name="theme_component_title_mms">MMS</string>
