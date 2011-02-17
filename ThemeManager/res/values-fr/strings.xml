@@ -5,7 +5,7 @@
     <string name="theme_picker_title_prefix">Thème %1$s</string>
     <string name="theme_picker_online_title_prefix">Télécharger thème %1$s</string>
     <string name="theme_sdcard_missed_dialog_title">La carte mémoire n\'est pas accessible</string>
-    <string name="theme_sdcard_missed_dialog_message">Assurez-vous que la carte mémoire est insérée, et que le téléphone n\'est pas en mode de transfert de données。</string>
+    <string name="theme_sdcard_missed_dialog_message">Assurez-vous que la carte mémoire est insérée et que le téléphone n\'est pas en mode de transfert de données。</string>
     <string name="theme_changing_dialog_title">Appliquer le thème</string>
     <string name="theme_changed_message">Configuration réussie!</string>
     <string name="theme_changed_failed_message">Configuration échouée!</string>
@@ -38,7 +38,7 @@
     <string name="theme_description_addtime">Ajouté le: </string>
     <string name="theme_description_version">Version： </string>
     <string name="theme_description_version_vertical">\u0020| Version:</string>
-    <string name="theme_description_reboot">(redémarrage nécessaire)</string>
+    <string name="theme_description_reboot">(Redémarrage nécessaire)</string>
     <string name="theme_component_title_prefix">Actuel: %1$s</string>
     <string name="theme_component_title_framework">Système</string>
     <string name="theme_component_title_mms">MMS</string>
@@ -62,7 +62,7 @@
     <string name="apply_theme_content_caution">Ce thème contient： %1$s\n\n</string>
     <string name="apply_theme_reboot_confirm_message">L\'application redémarrera le téléphone, continuer?</string>
     <string name="theme_preview_preference_brief_prefix">Description:</string>
-    <string name="list_section_header_backup">Sauvegardé</string>
+    <string name="list_section_header_backup">Sauvegardés</string>
     <string name="list_section_header_builtin">Inclus</string>
     <string name="list_section_header_downloaded">Téléchargés</string>
     <string name="theme_local">%1$s Local</string>

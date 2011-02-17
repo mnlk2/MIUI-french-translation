@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="app_name">MIUI Backup</string>
-    <string name="tab_app">Application</string>
+    <string name="tab_app">Applications</string>
     <string name="tab_sys">Système</string>
     <string name="tab_rom">Rom</string>
     <string name="button_backup">Sauvegarder</string>
@@ -9,11 +9,11 @@
     <string name="button_cancel">Annuler</string>
     <string name="backup_empty">Il n\'y aucune sauvegarde</string>
     <string name="backup_items_sysdata_tailer">Données du système</string>
-    <string name="backup_items_app_tailer">Programme</string>
+    <string name="backup_items_app_tailer">Programmes</string>
     <string name="backup_recently">(Dernières)</string>
     <string name="sdcard_unmounted">La carte SD n\'est pas présente, le programme va se fermer!</string>
     <string name="backup_dialog_title">Sélectionnez le contenu de la sauvegarde</string>
-    <string name="backup_unselected">Aucun contenu n\'est sélectionnée, annuler la sauvegarde</string>
+    <string name="backup_unselected">Aucun contenu n\'est sélectionné, annuler la sauvegarde</string>
     <string name="backup_confirm_title">Confirmation</string>
     <string name="backup_progress">Sauvegarde en cours...</string>
     <string name="backup_progress_post">Traitement de la sauvegarde...</string>
@@ -27,17 +27,17 @@
     <string name="backup_items">Eléments sauvegardés:\u0020</string>
     <string name="backup_unit" />
     <string name="backup_size">Taille:\u0020</string>
-    <string name="backup_failed">La sauvegarde a échouée pour：\u0020</string>
+    <string name="backup_failed">La sauvegarde a échoué pour：\u0020</string>
     <string name="backup_successful">Sauvegardé avec succès:\u0020</string>
     <string name="menu_delete_shortcut_label">Supprimer</string>
     <string name="menu_patch_delete">Supprimer</string>
     <string name="btn_done">Valider</string>
     <string name="btn_cancel">Annuler</string>
-    <string name="delete_backup">Supprimer de la sauvegarde</string>
+    <string name="delete_backup">Suppression de la sauvegarde</string>
     <string name="delete_backup_confirm">La sélection sera supprimée, confirmer?</string>
-    <string name="delete_backup_process">Suppression de la sélection,veuillez patientez</string>
+    <string name="delete_backup_process">Suppression de la sélection, veuillez patientez</string>
     <string name="batch_delete_backup_confirm">La sélection sera supprimée, confirmer?</string>
-    <string name="restore_title_suffix">contenu de la sauvegarde: </string>
+    <string name="restore_title_suffix">Contenu de la sauvegarde: </string>
     <string name="button_restore">Restauration</string>
     <string name="button_select_all">Tout sélectionner</string>
     <string name="button_unselect_all">Annuler la sélection</string>
@@ -51,13 +51,13 @@
     <string name="restore_failed">Eléments non restaurés</string>
     <string name="wifi_setting_name">Paramètres WIFI</string>
     <string name="backup_rom">Sauvegarde du système actuel</string>
-    <string name="backup_rom_confirm">Le téléphone doit redemarrer, accepter?</string>
-    <string name="backup_rom_progress">Redemarrage en cours...</string>
+    <string name="backup_rom_confirm">Le téléphone doit redémarrer, accepter?</string>
+    <string name="backup_rom_progress">Redémarrage en cours...</string>
     <string name="restore_rom">Restaurer l\'ensemble du système</string>
     <string name="restore_rom_confirm">Le système sera restauré, un redémarrage du téléphone est necessaire, confirmer?</string>
-    <string name="restore_rom_process">Redemarrage en cours...</string>
+    <string name="restore_rom_process">Redémarrage en cours...</string>
     <string name="restore_rom_title">Restauration du téléphone, vous devez redémarrer</string>
-    <string name="restore_unselected">Aucun contenu sélectionner, annuler?</string>
+    <string name="restore_unselected">Aucun contenu sélectionné, annuler?</string>
     <string name="restore_contacts_hit">(Note: vous devez recréer le compte d\'origine manuellement avant de restaurer les contacts)</string>
     <string name="restore_telephony_hit">(Note: Le processus de restauration doit redémarrer l\'application téléphone)</string>
     <string name="restore_launcher_layout_hit">(Restaure les emplacements des icones du bureau, mais pas les widgets)</string>
@@ -67,6 +67,6 @@
     <string name="item_sys_data_desc">Cette sauvegarde est stockée sur la carte SD, dans le dossier MIUI_backup/SysDataBackup/</string>
     <string name="item_app_desc">Cette sauvegarde est stockée sur la carte SD, dans le dossier MIUI_backup/AllBackup/</string>
     <string name="empty_sys_data_desc">\n\nSauvegarde rapide des contacts, sms, et des paramètres système.</string>
-    <string name="empty_app_desc">\n\nSauvegarde des fichiers du téléphone et des programmes des programmes installés, les données générées. Tels que: des jeux et des fichiers du jeu en cours.</string>
+    <string name="empty_app_desc">\n\nSauvegarde des fichiers du téléphone et des programmes installés, ainsi que les données générées. Tels que: des jeux et des fichiers du jeu en cours.</string>
     <string name="empty_rom_desc">\n\nSauvegarde tout le téléphone (carte SD non incluse).\n\nnote: \nFonctionnement en mode de récupération automatique, vous devez redémarrer le téléphone.\n\nComme l\'opération est plus complexe, elle prend beaucoup de temps.</string>
 </resources>

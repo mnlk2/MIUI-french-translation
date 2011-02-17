@@ -16,10 +16,10 @@
     <string-array name="app_type_desc">
         <item> (Paramètres)</item>
         <item> (Programme)</item>
-        <item> (Paramètres + Programmes)</item>
+        <item> (Paramètres + Programme)</item>
     </string-array>
     <string-array name="restore_dialog_content_type">
-        <item>réstauration du système</item>
-        <item>réstauration des données</item>
+        <item>Restauration du système</item>
+        <item>Restauration des données</item>
     </string-array>
 </resources>
