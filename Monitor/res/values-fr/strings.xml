@@ -8,6 +8,7 @@
     <string name="first_traffic_day">Premier jour de facturation</string>
     <string name="first_traffic_day_hint">Date de facturation initiale (1 à 28)</string>
     <string name="auto_turn_off_mobile">Eteindre la 3G</string>
+    <string name="confirm_disable_monitor">Si vous arrêtez la surveillance du traffic, vous devrez corriger les valeurs lorsque vous le ré-activerez</string>
     <string name="menu_refresh">Actualiser</string>
     <string name="menu_sort_by_name">Trier par Nom</string>
     <string name="menu_sort_by_traffic">Trier par Consommation</string>
@@ -40,6 +41,7 @@
     <string name="this_month_traffic">Conso. mensuel</string>
     <string name="last_month_traffic">Conso. du mois dernier</string>
     <string name="network_monitor">Moniteur réseau</string>
+    <string name="firewall_hint">Pare-feu</string>
     <string name="all_apps">Liste des programmes</string>
     <string name="refresh">Actualiser</string>
     <string name="upload_bytes">Envoyer %s</string>
@@ -67,7 +69,9 @@
     <string name="less_than_limit">Attention doit être inférieure à la valeur maximale</string>
     <string name="fix_traffic">Correction de données</string>
     <string name="mobile_traffic_used">Données ce mois-ci</string>
+    <string name="mobile_used_toast">Le total de mois-ci a été corrigé avec l\'ajout de %s MB</string>
     <string name="sms_traffic_used">Message ce mois-ci</string>
+    <string name="sms_used_toast">Le total de mois-ci a été corrigé avec l\'ajout de %d messages</string>
     <string name="clear_traffic">Effacer les données</string>
     <string name="click_to_input">Requis</string>
     <string name="force_stop">Stopper l\'applicaction</string>

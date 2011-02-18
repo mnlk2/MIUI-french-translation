@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<FrameLayout
+<com.miui.camera.CameraPreferenceWhitebalance android:layout_gravity="bottom" android:id="@id/camera_setting_whitebalance_view" android:layout_width="340.0dip" android:layout_height="90.0dip" android:layout_marginLeft="20.0dip" android:layout_marginBottom="45.0dip"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
         <View android:background="@drawable/popup_bg_l" android:layout_width="190.0dip" android:layout_height="fill_parent" />
@@ -16,4 +16,4 @@
             <TextView android:textSize="15.0dip" android:id="@id/camera_setting_whitebalance_fluorescent" android:clickable="true" android:layout_width="112.0dip" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:text="@string/pref_camera_whitebalance_fluorescent" android:drawableLeft="@drawable/off" android:drawablePadding="5.0dip" />
         </LinearLayout>
     </LinearLayout>
-</FrameLayout>
+</com.miui.camera.CameraPreferenceWhitebalance>
