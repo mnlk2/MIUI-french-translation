@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/note_choice_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="72.0px">
+        <TextView android:textSize="28.0sp" android:textColor="#ff737c83" android:gravity="center" android:id="@id/voice" android:background="@drawable/note_choice_call" android:paddingLeft="100.0dip" android:paddingRight="100.0dip" android:layout_width="fill_parent" android:layout_height="126.0px" android:layout_marginTop="4.0px" android:text="@string/onscreenNoteForCall" android:drawableLeft="@drawable/ic_note_choice_call" />
+        <TextView android:textSize="28.0sp" android:textColor="#ff737c83" android:gravity="center" android:id="@id/txt" android:background="@drawable/note_choice_txt" android:paddingLeft="100.0dip" android:paddingRight="100.0dip" android:layout_width="fill_parent" android:layout_height="126.0px" android:text="@string/onscreenNoteForTxt" android:drawableLeft="@drawable/ic_note_choice_txt" />
+        <Button android:textSize="26.0sp" android:textColor="#ff737c83" android:id="@id/cancel" android:background="@drawable/incall_bottom_bar" android:layout_width="fill_parent" android:layout_height="95.0px" android:layout_marginLeft="32.0px" android:layout_marginTop="20.0px" android:layout_marginRight="32.0px" android:layout_marginBottom="7.0px" android:text="@string/cancel" />
+    </LinearLayout>
+</LinearLayout>

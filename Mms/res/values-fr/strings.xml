@@ -346,9 +346,9 @@
     <string name="batch_delete_confrom_dialog_message">Supprimer les messages sélectionnés</string>
     <string name="btn_delete_with_number">Supprimer(%d)</string>
     <string name="update_failed">La mise à jour a échoué</string>
-    <string name="delivery_report_none">Accusé désactivé</string>
+    <string name="delivery_report_none">Accusé de réception non demander</string>
     <string name="delivery_report_failed">Échec de l\'envoi</string>
-    <string name="delivery_report_pending">Le message a été reçu</string>
+    <string name="delivery_report_pending">Accusé de réception demander</string>
     <string name="add_phrase">Ajout rep. rapide</string>
     <string name="add_contact">Contacts</string>
     <string name="add_nickname">Pseudo</string>
@@ -403,8 +403,8 @@
     <string name="message_context_panel_detail">Déta.</string>
     <string name="message_context_panel_delete">Supp.</string>
     <string name="style_save_dialog_message">Paramètres modifiés, voulez-vous les enregistrer?</string>
-    <string name="pref_title_notification_content_enabled">Notifications</string>
-    <string name="pref_summary_notification_content_enabled">Le contenu des messages s\'affiche dans la barre d\'état</string>
+    <string name="pref_title_notification_body_enabled">Afficher</string>
+    <string name="pref_summary_notification_body_enabled">Afficher le contenu dans la barre de notification et sur l\'écran de verrouillage</string>
     <string name="new_message_arrived">Nouveau Message</string>
     <string name="label_recent_contacts">Contacts récents</string>
     <string name="demo_conv1_number">13800000000</string>
