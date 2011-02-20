@@ -57,7 +57,7 @@
     <string name="albums_menu">Albums</string>
     <string name="albums_title">Titre de l\'album</string>
     <string name="tracks_menu">Pistes</string>
-    <string name="tracks_title">Toutes les pistes</string>
+    <string name="tracks_title">Pistes</string>
     <string name="playlists_menu">Playlists</string>
     <string name="playlists_title">Playlists</string>
     <string name="all_title">Tous media</string>

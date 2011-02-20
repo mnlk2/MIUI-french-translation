@@ -37,7 +37,7 @@
         </LinearLayout>
         <RelativeLayout android:layout_gravity="top" android:id="@id/contact_panel" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="53.0dip">
             <FrameLayout android:id="@id/badge_panel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="7.0dip" android:layout_marginRight="7.0dip" android:layout_marginBottom="7.0dip">
-                <QuickContactBadge android:id="@id/avatar" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" style="\@android:style/Widget.QuickContactBadgeSmall.WindowSmall" />
+                <QuickContactBadge android:id="@id/avatar" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" style="@android:style/Widget.QuickContactBadgeSmall.WindowSmall" />
                 <ImageView android:layout_gravity="bottom|right|center" android:id="@id/fetion_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="3.0dip" android:layout_marginBottom="3.0dip" android:src="@drawable/fetion_icon" />
             </FrameLayout>
             <TextView android:textSize="18.0sp" android:textColor="#ffffffff" android:id="@id/send_to" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="14.0dip" android:text="@string/send_to" android:singleLine="true" android:shadowColor="#4c000000" android:shadowDx="0.0" android:shadowDy="-1.0" android:shadowRadius="1.0" android:layout_alignParentTop="true" />
@@ -60,7 +60,7 @@
             <Button android:id="@id/send_button" android:nextFocusLeft="@id/embedded_text_editor" android:layout_width="wrap_content" android:layout_height="wrap_content" />
         </LinearLayout>
     </LinearLayout>
-    <include layout="\@layout/menu_batch_delete" />
+    <include layout="@layout/menu_batch_delete" />
     <LinearLayout android:orientation="vertical" android:id="@id/attachment_panel" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="245.0dip">
         <RadioGroup android:gravity="center" android:orientation="horizontal" android:id="@id/attachment_switch_group" android:layout_width="fill_parent" android:layout_height="wrap_content">
             <RadioButton android:textColor="@color/dual_tab_text_color" android:gravity="center" android:id="@id/sms_button_attachment" android:background="@drawable/dual_tab_left_full" android:layout_width="0.0dip" android:layout_height="wrap_content" android:button="@null" android:text="@string/attachment_panel_attachment" android:layout_weight="1.0" />
