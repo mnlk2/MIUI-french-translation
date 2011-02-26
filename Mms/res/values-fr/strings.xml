@@ -290,6 +290,7 @@
     <string name="sending_message">Envoi en cours…</string>
     <string name="bookmark_sms">Message épinglé</string>
     <string name="bookmark_sms_message">Message épinglé...</string>
+    <string name="unbookmark_sms_message">Le SMS a été supprimé...</string>
     <string name="copied_message">Les messages ont été copiés...</string>
     <string name="recent_conversation">Conversations</string>
     <string name="contacts">Contacts</string>
@@ -399,6 +400,7 @@
     <string name="statistics_format">Total %d Conversations, %d SMS</string>
     <string name="message_context_panel_forward">Transf.</string>
     <string name="message_context_panel_favorite">Fav.</string>
+    <string name="message_context_panel_unfavorite">Annuler</string>
     <string name="message_context_panel_copy">Cop.</string>
     <string name="message_context_panel_detail">Déta.</string>
     <string name="message_context_panel_delete">Supp.</string>

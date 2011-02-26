@@ -7,6 +7,7 @@
     <string name="phoneIconLabel">Téléphone</string>
     <string name="recentCallsIconLabel">Appels</string>
     <string name="fdnListLabel">Liste de numéros autorisés</string>
+    <string name="sdnListLabel">Liste SDN </string>
     <string name="unknown">Inconnu</string>
     <string name="private_num">Numéro privé</string>
     <string name="payphone">Cabine téléphonique</string>
@@ -364,6 +365,7 @@
     <string name="card_title_in_progress">Appel en cours</string>
     <string name="card_title_conf_call">Conférence téléphonique</string>
     <string name="card_title_incoming_call">Appel entrant</string>
+    <string name="card_title_forwarded_incoming_call">Transfert d\'appel</string>
     <string name="card_title_cdma_call_waiting">Appel CDMA en attente</string>
     <string name="card_title_call_ended">Fin de l\'appel</string>
     <string name="card_title_on_hold">En attente</string>

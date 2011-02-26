@@ -102,7 +102,6 @@
     <string name="mediaplaybacklabel">Musique</string>
     <string name="videobrowserlabel">Vidéo</string>
     <string name="mediapickerlabel">Musique</string>
-    <string name="playback_failed">Ce type de fichier audio n\'est pas pris en charge.</string>
     <string name="remove_from_playlist">Retirer de la playlist</string>
     <string name="streamloadingtext">Connectiion à %s</string>
     <string name="mediasearch">Utilisez les outils suivants pour chercher “%s”：</string>
@@ -138,6 +137,12 @@
     <string name="item_count_in_header">(%d)</string>
     <string name="zero_count">(0)</string>
     <string name="local_search_empty">Aucun résultat ne correspond a votre recherche</string>
+    <string name="playback_failed_no_title">Ce type de fichier audio n\'est pas pris en charge.</string>
+    <string name="playback_failed">\'%s\' le format du fichier n\'est pas supporté</string>
+    <string name="refresh">Actualiser</string>
+    <string name="refresh_finish">Actualisation terminée</string>
+    <string name="refreshing">Actualisation</string>
+    <string name="refresh_start">Démarrer actualisation</string>
     <string name="to_artist">Artiste</string>
     <string name="to_album">Album</string>
     <string name="to_playlist">Playlists</string>
@@ -157,8 +162,15 @@
     <string name="flow_save_hint">Conseil réseau 3G</string>
     <string name="download_music_settings">Téléchargement de musique</string>
     <string name="others">Autre(s)</string>
+    <string name="play_and_download">Ecouter et télécharger</string>
+    <string name="screen_bright_wake">Illumination de l\'écran</string>
     <string name="submit_feedback">Envoyer feedback</string>
     <string name="feedback_reminder">La connexion réseau n\'est pas disponible, veuillez essayer plus tard</string>
+    <string name="lyric_display_settings">Affichage des paroles</string>
+    <string name="album_display_settings">Voir l\'album</string>
+    <string name="shake_settings">Secouer</string>
+    <string name="shake_sensitivity_settings">Réglage de la sensibilité</string>
+    <string name="keep_quit_location_settings">Mémorisation de la position de sortie</string>
     <string name="feedback_thanks">Merci</string>
     <string name="download_lyric_summary">Vous pouvez désactiver ce paramètre pour économiser la consommation réseau.</string>
     <string name="download_album_summary">Utiliser des pochettes d\'album utilise du trafic réseau et peut entraîner des coûts élevés.</string>
@@ -166,6 +178,12 @@
     <string name="download_music_summary">Le téléchargement de musique Utilise du trafic réseau et peut entraîner des coûts élevés.</string>
     <string name="flow_save_hint_summary">confirmer l\'opération par une fenêtre pop-up à chaque fois</string>
     <string name="android_album_summary">Utiliser automatiquement les pochettes d\'album</string>
+    <string name="play_and_download_summary">使听过的歌曲自动下载到本地</string>
+    <string name="screen_bright_wake_summary">Le rétro-éclairage reste allumé</string>
+    <string name="shake_summary">Secouer le téléphone pour passer à la chanson suivante</string>
+    <string name="shake_sensitivity_summary">Réglage de la sensibilité</string>
+    <string name="shake_sensitivity_helper">A gauche sensibilité élevée, faible à droite</string>
+    <string name="keep_quit_location_summary">Mémorisation de la position de sortie</string>
     <string name="stop_when_wifi_disconnect">Si vous voulez écouter des chansons en ligne en utilisant le réseau 3G, vous pouvez modifier les paramètres.</string>
     <string name="continue_when_wifi_disconnect">Continuer même en réseau 3G</string>
     <string name="donot_ask_me_agaion">Ne plus demander</string>
@@ -189,7 +207,7 @@
     <string name="song_downloaded">已下载</string>
     <string name="song_downloading">下载中</string>    
     <string name="buffering">Mise en mémoire tampon...</string>
-    <string name="confirm_with_count">确认(%d)</string>
+    <string name="confirm_with_count">Confirmation (%d)</string>
     <string name="search_go">Rechercher</string>
     <string name="clear_search_history">Effacez tout l\'historique des recherches</string>
     <string name="search_history">Historique de recherche</string>
@@ -197,6 +215,7 @@
     <string name="search_failed_report">Aucune piste trouvée</string>
     <string name="search_online_hint">Recherche de musique en ligne</string>
     <string name="network_error">Pas de connexion réseau, veuillez vérifier vos paramètres</string>
+    <string name="search_from_local_to_online">Recherche sur le réseau de \'%s\'</string>
     <string name="playlists_header">Playlist</string>
     <string name="favorite_playlist">Favoris</string>
     <string name="current_playlist">Playlist actuelle(%1$d/%2$d)</string>
