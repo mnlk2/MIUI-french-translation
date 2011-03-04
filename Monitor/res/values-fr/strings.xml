@@ -34,7 +34,6 @@
     <string name="mobile">2G/3G</string>
     <string name="wifi">WIFI</string>
     <string name="android_system">Système Android</string>
-    <string name="first_application">Contacts</string>
     <string name="traffic_detail">Détails de la consommation</string>
     <string name="today_traffic">Conso. journalière</string>
     <string name="this_week_traffic">Conso. hébdomadaire</string>

@@ -395,6 +395,9 @@
     <string name="label_time">Date:</string>
     <string name="label_single_show">écran unique</string>
     <string name="label_single_show_smart">segmentation intelligente</string>
+    <string name="label_message_item_style">Style du dialogue :</string>
+    <string name="label_message_item_style_list">Liste</string>
+    <string name="label_message_item_style_bubble">Bulle</string> 
     <string name="label_restore_default">Rétablir les paramètres par défaut</string>
     <string name="more_color">Plus de couleurs</string>
     <string name="statistics_format">Total %d Conversations, %d SMS</string>
@@ -446,4 +449,5 @@
     <string name="new_phrase_hint">Entrée</string>
     <string name="sms_phrase_welcome">Pour ajouter un nouveau message clickez sur \"Nouveau message\"</string>
     <string name="random_pick">Aléatoire</string>
+    <string name="message_item_style">bubble</string>    
 </resources>

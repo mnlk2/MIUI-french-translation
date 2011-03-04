@@ -16,9 +16,9 @@
     <string name="frontpage_animation_set">Animations en page d\'accueil</string>
     <string name="folder_animation_set">Dossier des animations</string>
     <string name="singleview_animation_set">Transition des images en plein écran</string>
+    <string name="support_reflection">Support de réflexion</string>
     <string name="slideshow_interval">Intervalle (s)</string>
     <string name="slideshow_interval_dialog_title">Réglez l\'intervalle (s)</string>
-    <string name="slideshow_interval_summary">L\'intervalle doit être supérieur à 0, en secondes</string>
     <string name="animation_set">Animations</string>
     <string name="front_title">Galerie</string>
     <string name="global_setting">Paramètres</string>
@@ -62,6 +62,7 @@
     <string name="loading_thumbnail">Chargement</string>
     <string name="damaged_file">Le fichier est corrompu</string>
     <string name="camera_folder_display_name">Photo</string>
+    <string name="miui_capture_screen_folder_display_name">Captures d\'écran</string>
     <string name="must_pick_file">Vous devez d\'abord sélectionner une image</string>
     <string name="send_method">Méthode d\'envois</string>
     <string name="play_video">Lire</string>
