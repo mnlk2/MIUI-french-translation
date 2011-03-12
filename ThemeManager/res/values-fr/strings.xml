@@ -90,4 +90,8 @@
     <string name="confirm">Valider</string>
     <string name="cancel">Annuler</string>
     <string name="all_resources">Tous les %1$s</string>
+    <string name="wallpaper_settings">Réglage fond d\'écran</string>
+    <string name="desktop_wallpaper">Fonds d\'écran</string>
+    <string name="live_wallpaper">Live wallpaper</string>
+    <string name="lockscreen_wallpaper">Verrouillage</string>
 </resources>

@@ -168,6 +168,7 @@
     <string name="feedback_reminder">La connexion réseau n\'est pas disponible, veuillez essayer plus tard</string>
     <string name="lyric_display_settings">Affichage des paroles</string>
     <string name="album_display_settings">Voir l\'album</string>
+    <string name="spectrogram_display_settings">Affichage du spectre</string>
     <string name="shake_settings">Secouer</string>
     <string name="shake_sensitivity_settings">Réglage de la sensibilité</string>
     <string name="keep_quit_location_settings">Mémorisation de la position de sortie</string>
@@ -178,7 +179,8 @@
     <string name="download_music_summary">Le téléchargement de musique Utilise du trafic réseau et peut entraîner des coûts élevés.</string>
     <string name="flow_save_hint_summary">confirmer l\'opération par une fenêtre pop-up à chaque fois</string>
     <string name="android_album_summary">Utiliser automatiquement les pochettes d\'album</string>
-    <string name="play_and_download_summary">使听过的歌曲自动下载到本地</string>
+    <string name="play_and_download_summary">Ecouter les chansons téléchargées automatiquement</string>
+    <string name="spectrogram_display_summary">Masquer peut améliorer les performances</string>
     <string name="screen_bright_wake_summary">Le rétro-éclairage reste allumé</string>
     <string name="shake_summary">Secouer le téléphone pour passer à la chanson suivante</string>
     <string name="shake_sensitivity_summary">Réglage de la sensibilité</string>
