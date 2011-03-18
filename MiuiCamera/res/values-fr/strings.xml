@@ -119,4 +119,6 @@
     <string name="video_reach_size_limit">Limite de taille atteinte.</string>
     <string name="wait">Veuillez patienter...</string>
     <string name="warning">Avertissement</string>
+    <string name="confirm_delete_image_message">Confirmer pour supprimer cette image</string>
+    <string name="send_method">Envoyer à</string>    
 </resources>

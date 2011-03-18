@@ -124,7 +124,6 @@
     <string name="unpause_on_headset_plug_summary">Réactiver le lecteur lorsque le casque est branché</string>
     <string name="doubletap_trackball_next_title">Utilisez le trackball pour Changer de piste</string>
     <string name="doubletap_trackball_next_summary">Double appuis sur le trackball pendant la veil pour changer de piste</string>
-    <string name="notification_artist_album">%2$s\n%1$s</string>
     <string name="create_playlist_create_text_prompt">Nom de la Playlist</string>
     <string name="rename_playlist_same_prompt">%s va être renommé</string>
     <string name="rename_playlist_diff_prompt">%s va être renommé</string>

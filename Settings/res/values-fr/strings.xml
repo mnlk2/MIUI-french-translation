@@ -1346,7 +1346,7 @@
     <string name="ll_reload">Recharger</string>
     <string name="ll_bad_levels">Les niveaux doivent être à la hausse</string>
     <string name="ll_num_levels">Régler le nombre de niveaux</string>
-    <string name="netdiag_desc">本程序将全面诊断您的网络连接的各项设置，找出潜在的问题，确保您能正确连接网络。</string>
+    <string name="netdiag_desc">Cette procédure fera un diagnostic complet de votre connexion réseau, afin d\'identifier les problèmes potentiels, assurez-vous d\'être connecter correctement au réseau.</string>
     <string name="netdiag_start">start</string>
     <string name="netdiag_restart">restart</string>
     <string name="netdiag_cancel">Annuler</string>

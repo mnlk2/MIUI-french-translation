@@ -892,7 +892,9 @@
     <string name="lockscreen_dial_label">Appel</string>
     <string name="lockscreen_mms_label">SMS</string>
     <string name="status_bar_back_to_call">Revenir à l\'appel</string>
-    <string name="lockscreen_bottom_hint">Faire glisser</string>
+    <string name="lockscreen_time_bottom_hint">Faire glisser pour déverrouiller</string>
+    <string name="lockscreen_call_bottom_hint">Faire glisser pour accéder au téléphone</string>
+    <string name="lockscreen_sms_bottom_hint">Faire glisser pour accéder aux messages</string>
     <string name="lockscreen_unlock_hint">Déverrouiller</string>
     <string name="unknown">Inconnu</string>
     <string name="private_num">Appel masqué</string>
