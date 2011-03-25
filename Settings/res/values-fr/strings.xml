@@ -794,7 +794,6 @@
     <string name="process_provider_in_use_description">Provider %1$s is in use.</string>
     <string name="runningservicedetails_stop_dlg_title">Stop system service?</string>
     <string name="runningservicedetails_stop_dlg_text">Are you sure you want to stop this system service? If you do, some features of your phone may stop working correctly until you power it off and then on again.</string>
-    <string name="service_process_name">Processus : %1$s</string>
     <string name="language_settings">Langue et clavier</string>
     <string name="language_keyboard_settings_title">Paramètres de langue et clavier</string>
     <string name="storageuse_settings_title">Storage use</string>
@@ -1361,9 +1360,6 @@
     <string name="ll_num_levels">Régler le nombre de niveaux</string>
     <string name="haptic_title">Tweaks du retour haptique</string>
     <string name="haptic_summary">Ajuster quand et comment le retour haptique s\'activera</string>
-    <string name="title_haptic_feedback">Retour haptique</string>
-    <string name="summary_on_haptic_feedback">Utiliser le retour haptique lors de certaines interactions utilisateur</string>
-    <string name="summary_off_haptic_feedback">Ne pas utiliser le retour haptique</string>
     <string name="title_haptic_feedback_up">Retour au relâchement</string>
     <string name="summary_on_haptic_feedback_up">Utiliser le retour haptique lors du relâchement de certaines touches</string>
     <string name="summary_off_haptic_feedback_up">Ne pas utiliser le retour haptique lors du relâchement de certaines touches</string>
@@ -1374,12 +1370,11 @@
     <string name="title_haptic_up_decider">Séquence au relâchement</string>
     <string name="title_haptic_long_decider">Séquence à la pression longue</string>
     <string name="title_haptic_tap_decider">Séquence à l\'appui clavier</string>
-    <string name="screen_rotation">Rotation de l'écran</string>
+    <string name="screen_rotation">Rotation de l\'écran</string>
     <string name="rotate_180_title">Rotation à 180°</string>
     <string name="electron_beam_animation_on">Animation allumage écran</string>
     <string name="electron_beam_animation_off">Animation extinction écran</string>
     <string name="title_haptic_menu">Séquence des vibrations</string>
-    <string name="title_haptic_notice">REDÉMARRAGE REQUIS AFIN QUE LES CHANGEMENTS S\'APPLIQUENT</string>
     <string name="haptic_delay_desc">ms au repos</string>
     <string name="haptic_vibe_desc">ms en action</string>
     <string name="haptic_down_description">Ajustement des valeurs haptiques pour les PRESSIONS\n(Touches physiques et certaines interactions.)</string>
