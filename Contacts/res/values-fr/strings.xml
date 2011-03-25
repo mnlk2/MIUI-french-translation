@@ -61,6 +61,7 @@
     <string name="editContact_title_insert">Nouveau contact</string>
     <string name="label_phonetic_name">Prononciation phonétique</string>
     <string name="label_notes">Notes</string>
+    <string name="label_sip_address">Appel internet</string>
     <string name="label_ringtone">Sonnerie</string>
     <string name="ghostData_name">Nom et prénom</string>
     <string name="ghostData_phonetic_name">Nom phonétique</string>
@@ -319,6 +320,8 @@
     <string name="numberCountFormat">%s numéro(s)</string>
     <string name="menu_display_all">Afficher tous les contacts</string>
     <string name="menu_display_only_phones">Afficher uniquement les contacts avec un numéro de téléphone</string>
+    <string name="openDialKeyboard">Pavé numérique</string>
+    <string name="nameContactsCount">%d Contacts</string>
     <string name="contactsGroupsLabel">Groupes</string>
     <string name="group_summary_format">%s membres</string>
     <string name="no_member">Ce groupe est vide</string>
@@ -334,6 +337,7 @@
     <string name="group_name_white_list">Liste blanche</string>
     <string name="group_name_black_list">Liste noire</string>
     <string name="button_manage_groups">Gérer les groupes</string>
+    <string name="groupsDefaultText">Ces groupes sont synchronisé par défaut.</string>
     <string name="button_back">Retour</string>
     <string name="button_remove_contacts">Supprimer</string>
     <string name="duplicatedGroupNameHelpText">Ce nom de groupe existe déjà, merci d\'en choisir un autre</string>
@@ -407,6 +411,7 @@
     <string name="noContactHelpText">Il n\'y a aucun contact, vous pouvez:</string>
     <string name="noFavoriteHelpText">Il n\'y a pas de favoris, vous pouvez:</string>
     <string name="noGroupMemberHelpText">Il n\'y a pas membre dans le groupe, vous pouvez:</string>
+    <string name="noGroupHelpText">Actuellement, aucun groupe</string>
     <string name="noContactHelpTextAccounts">configurer un compte de synchronisation</string>
     <string name="noContactHelpTextImportSim">Importer des contacts de la carte SIM</string>
     <string name="noContactHelpTextImportSD">Importer des contacts de carte SD</string>
@@ -432,4 +437,15 @@
     <string name="btn_confirm">Valider</string>
     <string name="btn_cancel">Annuler</string>
     <string name="recent_contact_statstic">Total: %d contacts récents</string>
+    <string name="view_contact_insert">nouveau contact</string>
+    <string name="view_contact_insert_or_edit">ajouter à un contact existant</string>
+    <string name="view_contact_add_firewall">rejoint la liste noire</string>
+    <string name="call_logs">Historique d\'appel</string>
+    <string name="call_logs_show_all">Afficher tous les %d...</string>
+    <string name="view_contact_call">Téléphone</string>
+    <string name="view_contact_sms">SMS</string>
+    <string name="view_contact_number_call_confirm">appeler</string>
+    <string name="view_contact_number_sms_confirm">Envoyer un message</string>
+    <string name="edit_contact_card_delete">supprimer contact</string>
+    <string name="sip_address">Adresse SIP</string>    
 </resources>

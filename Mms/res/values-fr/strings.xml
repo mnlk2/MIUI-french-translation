@@ -324,7 +324,7 @@
     <string name="pref_delivery_reports_title">Accusé de réception</string>
     <string name="pref_edit_smsc_address">Régler le numéro de centre SMS</string>
     <string name="perf_other_settings_title">Autres paramètres</string>
-    <string name="pref_key_sort_by_server_date_title">Trier la liste par date d\'envois</string>
+    <string name="pref_key_sort_by_server_date_title">Trier par date d\'envois</string>
     <string name="pref_key_sort_by_server_date_summary">Trier la liste par date d\'envois</string>
     <string name="pref_key_sort_by_date_summary">Trier la liste par date d\'envois</string>
     <string name="save_image">Enregistrer l\'image sous</string>
@@ -422,7 +422,7 @@
     <string name="demo_msg1_body">Bonjour Juice</string>
     <string name="demo_msg2_contact">Jus</string>
     <string name="demo_msg2_body">Bonjour, je suis Juice</string>
-    <string name="pref_title_filter_phone">Afficher seulement le numéro de téléphone</string>
+    <string name="pref_title_filter_phone">Afficher seulement les mobiles</string>
     <string name="pref_summary_filter_phone">Affiche uniquement le numéro de téléphone mobile des destinataires sélectionnés</string>
     <string name="default_mms_theme_author_info">De : MIUI</string>
     <string name="resend">Retransmission</string>

@@ -4,6 +4,7 @@
     <string name="permdesc_bluetoothShareManager">Permet à l\'application d\'accéder au gestionnaire BluetoothShare et de l\'utiliser pour le transfert de fichiers.</string>
     <string name="bt_share_picker_label">Bluetooth</string>
     <string name="unknown_device">Périphérique inconnu</string>
+    <string name="unknownNumber">Inconnu</string>
     <string name="airplane_error_title">Mode Avion</string>
     <string name="airplane_error_msg">Impossible d\'utiliser le mode Bluetooth lorsque le téléphone est en mode Avion.</string>
     <string name="bt_enable_title">Bluetooth</string>

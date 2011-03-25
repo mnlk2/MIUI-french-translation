@@ -71,7 +71,6 @@
     <string name="theme_import">Importer à partir de la carte SD</string>
     <string name="theme_select_others">Autres</string>
     <string name="third_party_pickers_activity_title">Définir %1$s</string>
-    <string name="online_resources">Téléchargement</string>
     <string name="online_title">Téléchargement de thèmes</string>
     <string name="online_resource_download">Télécharger</string>
     <string name="online_resource_apply">Appliquer</string>

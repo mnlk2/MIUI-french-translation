@@ -28,7 +28,7 @@
     <string name="act_del_ms">Le SMS est cacher</string>
     <string name="opt_no_firewall">Filtrage désactivé</string>
     <string name="opt_reject_all">Tout rejeter</string>
-    <string name="opt_reject_stranger">Rejeter les numéros inconnus</string>
+    <string name="opt_reject_stranger">Rejeter appels masqués</string>
     <string name="opt_reject_list">Rejeter la liste noire</string>
     <string name="opt_accept_starred">Accepter les favoris</string>
     <string name="opt_accept_list">Accepter la liste blanche</string>

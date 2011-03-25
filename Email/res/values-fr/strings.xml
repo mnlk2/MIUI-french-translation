@@ -16,6 +16,8 @@
     <string name="message_list_title" />
     <string name="status_loading_more_failed" />
     <string name="status_sending_messages_failed" />
+    <string name="provider_note_yahoo" />
+    <string name="provider_note_yahoo_uk" />
     <string name="read_attachment_label">Lire les pièces jointes</string>
     <string name="read_attachment_desc">Permet à cette application de lire les pièces jointes aux e-mails.</string>
     <string name="permission_access_provider_label">Accéder aux données du client de messagerie</string>
@@ -247,8 +249,6 @@
     <string name="account_delete_dlg_instructions_fmt">Le compte \"%s\" sera supprimé.</string>
     <string name="upgrade_accounts_title">Mise à jour des comptes</string>
     <string name="upgrade_accounts_error">Impossible de mettre à jour les comptes</string>
-    <string name="provider_note_yahoo">L\'accès à la boîte aux lettres n\'est pas possible avec certains types de comptes Yahoo!. En cas de problème de connexion, consultez le site yahoo.fr pour obtenir plus d\'informations.</string>
-    <string name="provider_note_yahoo_uk">Avant de configurer ce compte de messagerie, veuillez consulter le site de Yahoo! et activer l\'accès POP3 pour ce compte.</string>
     <string name="provider_note_live">Seuls certains comptes \"Plus\" comportent un accès POP permettant à ce programme de se connecter. Si vous ne parvenez pas à vous connecter avec l\'adresse e-mail et le mot de passe corrects, vous ne disposez peut-être pas d\'un compte payant \"Plus\". Pour accéder à ces comptes de messagerie, lancez votre navigateur Web.</string>
     <string name="provider_note_t_online">Avant de configurer ce compte de messagerie, veuillez consulter le site de T-Online et créer un mot de passe de messagerie POP3.</string>
     <string name="exchange_name">Entreprise</string>

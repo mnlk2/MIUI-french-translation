@@ -12,6 +12,7 @@
         <item>Présentation du bureau</item>
         <item>Contacts</item>
         <item>Journal d\'appel</item>
+        <item>SMS</item>        
     </string-array>
     <string-array name="app_type_desc">
         <item> (Paramètres)</item>
@@ -22,4 +23,10 @@
         <item>Restauration du système</item>
         <item>Restauration des données</item>
     </string-array>
+    <string-array name="cloud_data_label">
+        <item>Paramètres WIFI</item>
+        <item>Contacts</item>
+        <item>Enregistrement des appels</item>
+        <item>SMS</item>
+    </string-array>    
 </resources>

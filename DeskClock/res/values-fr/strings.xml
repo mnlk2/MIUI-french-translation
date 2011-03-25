@@ -59,4 +59,5 @@
     <string name="battery_charging_level">%d %%</string>
     <string name="weather_fetch_failure">La météo n\'est pas disponible pour le moment.</string>
     <string name="menu_item_dock_settings">Paramètres station d\'accueil</string>
+    <string name="alarm_klaxon_service_desc">Service de lecture du son pour les alarme</string>    
 </resources>

@@ -115,6 +115,10 @@
     <string name="switch_to_camera_lable">Appareil Photo</string>
     <string name="switch_to_video_lable">Vidéo</string>
     <string name="video_camera_label">Caméra MIUI</string>
+    <string name="pref_camera_delaysnap">Retardateur:</string>
+    <string name="pref_camera_delaysnap_off">Aucun</string>
+    <string name="pref_camera_delaysnap_short">5s</string>
+    <string name="pref_camera_delaysnap_long">15s</string>
     <string name="video_file_name_format">\'VID\'_dd-MM-yyyy_HHmmss</string>
     <string name="video_reach_size_limit">Limite de taille atteinte.</string>
     <string name="wait">Veuillez patienter...</string>

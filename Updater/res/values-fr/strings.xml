@@ -94,11 +94,7 @@
     <string name="wifi_not_available_body">Les fichiers sont volumineux, vous pouvez les télécharger en WIFI. Actuellement, vous n\'êtes connecté à aucun réseau WIFI, télécharger quand même? Ceci utilisera le réseau mobile avec un risque de surfacturation (Veuillez vérifier vos options d\'abonnement avant de commencer!).</string>
     <string name="widget_title">Mon MIUI</string>
     <string name="widget_feedback">Feedback</string>
-    <string name="unable_to_flash_recovery">Impossible de flasher le Recovery</string>
-    <string name="flash_recovery_successfully">Flash du Recovery correctement effectué</string>
-    <string name="reflash_recovery">Installation Recovery MIUI</string>
     <string name="boot_recovery">Reboot Recovery</string>
-    <string name="flash_recovery_dialog_message">Flasher le Recovery</string>
     <string name="applying_rom_message">Installation de la mise à jour...</string>
     <string name="loading">Connexion a MIUI</string>
     <string name="page_error_title">Impossible d\'accéder à</string>
