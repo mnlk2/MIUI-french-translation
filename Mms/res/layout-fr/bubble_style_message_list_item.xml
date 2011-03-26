@@ -3,7 +3,7 @@
   xmlns:android="http://schemas.android.com/apk/res/android">
     <TextView android:textStyle="bold" android:textColor="#ffb8bfcd" android:layout_gravity="center_horizontal" android:id="@id/time_stamp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
     <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
-        <CheckBox android:id="@id/item_marker" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="@dimen/msg_item_horizontal_margin" android:layout_height="wrap_content" android:button="@drawable/checkbox" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        <CheckBox android:id="@id/item_marker" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="@dimen/msg_item_horizontal_margin" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
         <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/item_marker">
             <FrameLayout android:id="@id/message_content" android:layout_width="wrap_content" android:layout_height="wrap_content">
                 <FrameLayout android:paddingTop="7.0dip" android:paddingRight="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
