@@ -14,7 +14,7 @@
     <string name="tab_apps_lable">Programme</string>
     <string name="apps_clean_title">nettoyage</string>
     <string name="apps_clean_current_memory">Mémoire actuellement disponible %1$s</string>
-    <string name="apps_clean_result">Communiqué de MIUI pour vous %1$s 内存。\nActuellement la mémoire disponible: %2$s</string>
+    <string name="apps_clean_result">Utilisation de la mémoire: %1$s\nActuellement la mémoire disponible est de: %2$s</string>
     <string name="status_bar_button_wifi">WIFI</string>
     <string name="status_bar_button_apn">APN</string>
     <string name="status_bar_button_bluetooth">BT</string>

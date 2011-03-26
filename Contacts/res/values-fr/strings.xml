@@ -73,7 +73,7 @@
     <string name="phoneLabelsGroup">Téléphone</string>
     <string name="emailLabelsGroup">E-mail</string>
     <string name="imLabelsGroup">Chat</string>
-    <string name="postalLabelsGroup">Adresse postale</string>
+    <string name="postalLabelsGroup">Adresse</string>
     <string name="photoPickerNotFoundText">Aucune image disponible sur le téléphone.</string>
     <string name="attachToContact">Icône de contact</string>
     <string name="customLabelPickerTitle">Libellé personnalisé</string>
@@ -267,12 +267,12 @@
     <string name="sms_work_pager">Envoyer un SMS vers téléavertisseur (bureau)</string>
     <string name="sms_assistant">Envoyer un message texte à %s</string>
     <string name="sms_mms">Envoyer un MMS</string>
-    <string name="email_home">Env. e-mail domicile</string>
-    <string name="email_mobile">Envoyer un e-mail sur le mobile</string>
+    <string name="email_home">e-mail</string>
+    <string name="email_mobile">e-mail</string>
     <string name="email_work">Env. e-mail bureau</string>
-    <string name="email_other">Envoyer un e-mail</string>
+    <string name="email_other">e-mail</string>
     <string name="email_custom">Envoyer un e-mail à %s</string>
-    <string name="email">Envoyer un e-mail</string>
+    <string name="email">e-mail</string>
     <string name="map_home">Afficher adresse perso</string>
     <string name="map_work">Afficher adresse prof.</string>
     <string name="map_other">Afficher l\'adresse</string>
@@ -357,7 +357,7 @@
     <string name="saveConfirmationTitle">Enregistrer le contact</string>
     <string name="saveConfirmationBody">Enregistrer les modifications apportées à ce contact?</string>
     <string name="saveConfirmationYes">Enregistrer</string>
-    <string name="saveConfirmationNo">Ne pas enregistrer</string>
+    <string name="saveConfirmationNo">Annuler</string>
     <string name="import_from_account">Importer</string>
     <string name="select_account_import_from">Sélectionner le compte à partir duquel importer</string>
     <string name="importing_from_account">Importation</string>
@@ -381,9 +381,9 @@
     <string name="sendContactDescription">Partager</string>
     <string name="titlePickOrCreateNewContact">Choisissez un contact existant ou en créer un nouveaux</string>
     <string name="titlePickContactNumber">Sélectionner un numéro de téléphone</string>
-    <string name="fixedWorkLabel">Fixe bureau</string>
-    <string name="fixedHomeLabel">Fixe domicile</string>
-    <string name="fixedPhoneLabel">Numéro de téléphone fixe</string>
+    <string name="fixedWorkLabel">Bureau</string>
+    <string name="fixedHomeLabel">Domicile</string>
+    <string name="fixedPhoneLabel">Fixe</string>
     <string name="fixedFaxLabel">Fax</string>
     <string name="goto_album">Galerie</string>
     <string name="recommneded_photos">Photo recommandée</string>
@@ -447,5 +447,5 @@
     <string name="view_contact_number_call_confirm">appeler</string>
     <string name="view_contact_number_sms_confirm">Envoyer un message</string>
     <string name="edit_contact_card_delete">supprimer contact</string>
-    <string name="sip_address">Adresse SIP</string>    
+    <string name="sip_address">SIP</string>    
 </resources>

@@ -73,6 +73,15 @@
                     <TextView android:textSize="15.0dip" android:id="@id/camera_playback_off" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="27.0dip" android:text="@string/pref_camera_playback_off" android:drawableLeft="@drawable/off" android:drawablePadding="5.0dip" />
                 </LinearLayout>
             </TableRow>
+            <View android:background="@drawable/popup_line" android:layout_height="4.0dip" android:layout_marginLeft="5.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="8.0dip" />
+            <TableRow>
+                <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:textSize="15.0dip" android:gravity="right" android:layout_width="86.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="@string/pref_camera_delaysnap" />
+                    <TextView android:textSize="15.0dip" android:id="@id/camera_delaysnap_off" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="@string/pref_camera_delaysnap_off" android:drawableLeft="@drawable/off" android:drawablePadding="5.0dip" />
+                    <TextView android:textSize="15.0dip" android:id="@id/camera_delaysnap_short" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="27.0dip" android:text="@string/pref_camera_delaysnap_short" android:drawableLeft="@drawable/off" android:drawablePadding="5.0dip" />
+                    <TextView android:textSize="15.0dip" android:id="@id/camera_delaysnap_long" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="27.0dip" android:text="@string/pref_camera_delaysnap_long" android:drawableLeft="@drawable/off" android:drawablePadding="5.0dip" />
+                </LinearLayout>                
+            </TableRow>
         </TableLayout>
     </ScrollView>
 </com.miui.camera.CameraPreferenceOthers>
