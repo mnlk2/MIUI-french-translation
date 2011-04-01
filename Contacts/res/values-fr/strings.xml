@@ -321,7 +321,7 @@
     <string name="menu_display_all">Afficher tous les contacts</string>
     <string name="menu_display_only_phones">Afficher uniquement les contacts avec un numéro de téléphone</string>
     <string name="openDialKeyboard">Pavé numérique</string>
-    <string name="nameContactsCount">%d Contacts</string>
+    <string name="nameContactsCount">Rechercher %d Contacts</string>
     <string name="contactsGroupsLabel">Groupes</string>
     <string name="group_summary_format">%s membres</string>
     <string name="no_member">Ce groupe est vide</string>
@@ -406,7 +406,6 @@
     <string name="callDetailsDurationFormat_outgoing">%1$s minutes %2$s secondes sortant</string>
     <string name="group_delete_confirmation">Confirmer la suppression</string>
     <string name="no_sms_availabe_contact_in_group">Aucun contacts dans ce groupe à qui envoyer un SMS</string>
-    <string name="showDialpadTip">Afficher le clavier</string>
     <string name="set_ringtone_for_group_members_success">Sonnerie définie avec succès</string>
     <string name="noContactHelpText">Il n\'y a aucun contact, vous pouvez:</string>
     <string name="noFavoriteHelpText">Il n\'y a pas de favoris, vous pouvez:</string>
@@ -447,5 +446,25 @@
     <string name="view_contact_number_call_confirm">appeler</string>
     <string name="view_contact_number_sms_confirm">Envoyer un message</string>
     <string name="edit_contact_card_delete">supprimer contact</string>
-    <string name="sip_address">SIP</string>    
+    <string name="sip_address">SIP</string>
+    <string name="contact_pick_photo_female">Filles</string>
+    <string name="contact_pick_photo_male">Hommes</string>
+    <string name="quick_contact_send_sms">SMS</string>
+    <string name="quick_contact_contact_detail">Détails</string>
+    <string name="quick_contact_call">Téléphone</string>
+    <string name="quick_contact_email">Email</string>
+    <string name="quick_contact_gtalk">GTalk</string>
+    <string name="quick_contact_map">Plan</string>
+    <string name="quick_contact_create_contact">Nouveau</string>
+    <string name="quick_contact_add_live_contact">Ajouter à...</string>
+    <string name="quick_contact_add_bl">Blacklist</string>
+    <string name="contact_call_incoming_photo">Identification de l\'appelant</string>
+    <string name="contact_call_incoming_photo_set">Identification de l\'appelant a été mis en </string>
+    <string name="incoming_call_photo_confirm">Utiliser</string>
+    <string name="incoming_call_photo_title">Déplacer ou agrandir</string>
+    <string name="remove">Supprimer</string>
+    <string name="check_all">Sélectionner tout</string>
+    <string name="check_nothing">Effacer tout</string>
+    <string name="confirm_delete_title">Confirmation de la suppression</string>
+    <string name="confirm_delete_message">Vous allez supprimer les %d contacts sélectionnés du téléphone.</string>
 </resources>

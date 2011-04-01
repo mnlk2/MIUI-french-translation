@@ -1127,4 +1127,6 @@
     <string name="country_name_tm">土库曼斯坦</string>
     <string name="country_name_az">阿塞拜疆</string>
     <string name="country_name_ge">格鲁吉亚</string>
+    <string name="text_pastelist">Presse-papiers (%d)</string>
+    <string name="select">Sélectionner</string>
 </resources>

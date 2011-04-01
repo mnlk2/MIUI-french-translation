@@ -85,7 +85,6 @@
     <string name="not_new_updates_found_body">Une mise à jour est disponible</string>
     <string name="not_network_error">Impossible de se connecter, assurez-vous que le réseau est disponible</string>
     <string name="version_description">Description</string>
-    <string name="acknowledge">Remerciements</string>
     <string name="pleasea_check_update">Vérification des mises à jour</string>
     <string name="already_applied">Déjà installée</string>
     <string name="stable_version">Version stable</string>
