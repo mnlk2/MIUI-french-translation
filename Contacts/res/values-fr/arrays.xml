@@ -96,6 +96,7 @@
         <item>Photo</item>
         <item>Allez à l\'album</item>
         <item>Stockage d\'image</item>
+        <item>Paramètres par défaut</item>
     </string-array>
     <string-array name="pick_incoming_call_photo_values">
         <item>Photo</item>

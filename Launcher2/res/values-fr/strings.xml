@@ -93,7 +93,7 @@
     <string name="transformation_type_leftpage">Page</string>
     <string name="transformation_type_stack">Cascade</string>
     <string name="transformation_type_rotate">Rotation 2</string>
-    <string name="widget_gadget_player">Widget Musique_4x</string>
+    <string name="widget_gadget_player">Widget Musique</string>
     <string name="buffering">Chargement…</string>
     <string name="emptyplaylist">La playlist est vide</string>
     <string name="sdcard_missing_title">Carte SD absente</string>
@@ -101,6 +101,7 @@
     <string name="unknown_artist_name">Artiste Inconnu</string>
     <string name="global_search_hint">Cliquer sur Rechercher</string>
     <string name="widget_global_search">Recherche</string>
+    <string name="widget_lock">Verrouillage des touches</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>

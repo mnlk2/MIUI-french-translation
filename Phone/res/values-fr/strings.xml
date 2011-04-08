@@ -546,6 +546,8 @@
     <string name="handon_ringer_summary">Retarde le début de la sonnerie lors d\'un appel</string>
     <string name="allow_3rd_app_listen_phone_event_title">Appli tél. tiers</string>
     <string name="allow_3rd_app_listen_phone_event_summary">Autoriser les applications Téléphone tiers</string>
+    <string name="show_quick_contact_badge_title">Avatars</string>
+    <string name="show_quick_contact_badge_summary">Montré les avatar dans la liste</string>
     <string name="set_smsc_address_title">Numéro du centre de messagerie</string>
     <string name="get_smsc_address_error">Impossible d\'obtenir le numéro du centre de messagerie</string>
     <string name="set_smsc_address_error">Définir le numéro du centre de messagerie</string>

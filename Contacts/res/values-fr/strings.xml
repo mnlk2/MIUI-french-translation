@@ -345,6 +345,7 @@
     <string name="menu_add">Ajouter</string>
     <string name="menu_remove">Supprimer</string>
     <string name="create_new_group">Nouveau Groupe</string>
+    <string name="edit_group_name">Modifier le nom des groupes</string>
     <string name="manage_groups">Editer groupe</string>
     <string name="menu_viewGroup">Voir les Groupes</string>
     <string name="menu_deleteGroup">Supprimer le groupe</string>
@@ -462,9 +463,14 @@
     <string name="contact_call_incoming_photo_set">Identification de l\'appelant a été mis en </string>
     <string name="incoming_call_photo_confirm">Utiliser</string>
     <string name="incoming_call_photo_title">Déplacer ou agrandir</string>
+    <string name="incoming_call_photo_saving">Sauver ID appelant</string>
     <string name="remove">Supprimer</string>
     <string name="check_all">Sélectionner tout</string>
     <string name="check_nothing">Effacer tout</string>
     <string name="confirm_delete_title">Confirmation de la suppression</string>
     <string name="confirm_delete_message">Vous allez supprimer les %d contacts sélectionnés du téléphone.</string>
+    <string name="delete_sigle_call_log">Suppression de la liste des appels</string>
+    <string name="delete_all_call_logs">Supprimer tout</string>
+    <string name="delete_call_log_title">Supprimer la séléction du journal des appels</string>
+    <string name="delete_all_call_logs_title">Supprimer tous les enregistrements</string>
 </resources>

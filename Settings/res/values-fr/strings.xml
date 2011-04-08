@@ -1175,6 +1175,8 @@
     <string name="personal_password_for_mms_title">SMS</string>
     <string name="personal_password_for_mms_summary">Exiger un mot de passe pour envoyer des SMS</string>
     <string name="personal_password_for_firewall_title">Filtrage d\'appels</string>
+    <string name="personal_password_for_notes_title">Notes</string>
+    <string name="personal_password_for_notes_summary">Exiger un mot de passe pour entrer des notes</string>    
     <string name="personal_password_for_firewall_summary">Mot de passe requis</string>
     <string name="personal_password_for_dialer_title">Appel</string>
     <string name="personal_password_for_dialer_summary">Vous devez saisir le mot de passe pour appeler</string>

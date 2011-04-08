@@ -19,12 +19,7 @@
         <item> (Programme)</item>
         <item> (Paramètres + Programme)</item>
     </string-array>
-    <string-array name="restore_dialog_content_type">
-        <item>Restauration du système</item>
-        <item>Restauration des données</item>
-    </string-array>
     <string-array name="cloud_data_label">
-        <item>Paramètres WIFI</item>
         <item>Contacts</item>
         <item>Enregistrement des appels</item>
         <item>SMS</item>
