@@ -146,8 +146,8 @@
     <string name="to_playlist">Playlists</string>
     <string name="to_track">Piste</string>
     <string name="to_search">Recherche</string>
-    <string name="my_music">Ma Musique</string>
-    <string name="online_music" />
+    <string name="my_music">Local</string>
+    <string name="online_music">En ligne</string>
     <string name="wifi_connect">Connexion WiFi</string>
     <string name="other_connect">Utilisation du réseau mobile</string>
     <string name="feedback">Feedback</string>
