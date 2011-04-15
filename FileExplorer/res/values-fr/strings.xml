@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="app_name">Explorateur de fichiers</string>
-    <string name="file_browse">Explorateur de fichiers</string>
-    <string name="go_parent_folder">Dossier parent</string>
-    <string name="sdcard_busy_note">La carte SD est occupée</string>
     <string name="confirm">Confirmation</string>
     <string name="category_title">Gestion des documents</string>
     <string name="menu_item_search">Rechercher</string>
@@ -35,9 +32,7 @@
     <string name="tab_category">Parcourir</string>
     <string name="tab_sd">Carte SD</string>
     <string name="tab_remote">FTP</string>
-    <string name="remote_title">FTP</string>
     <string name="tab_bluetooth">Bluetooth</string>
-    <string name="root_folder">Root</string>
     <string name="sd_folder">Carte SD</string>
     <string name="category_all">Tout</string>
     <string name="category_music">Audio</string>
@@ -53,8 +48,6 @@
     <string name="operation_create_folder_message">Entrez un nom de dossier</string>
     <string name="operation_delete_confirm_message">Confirmer la suppression?</string>
     <string name="new_folder_name">Nouveau dossier</string>
-    <string name="list_view_working">Recherche ...</string>
-    <string name="list_view_empty">Dossier vide</string>
     <string name="sd_card_name">Espace total:</string>
     <string name="sd_card_available">Disponible:</string>
     <string name="file_info_location">Emplacement:</string>
@@ -89,15 +82,5 @@
     <string name="no_wifi">Pas de réseau WiFi</string>
     <string name="search_title">Recherche de documents</string>
     <string name="search_hint">Saisir tout ou partie du nom de fichier</string>
-    <string name="bluetooth_send_file">Envoyer un fichier</string>
-    <string name="bluetooth_file">Mon Dossier Bluetooth</string>
-    <string name="bluetooth_title">Bluetooth</string>
-    <string name="bluetooth_ican">Moi</string>
-    <string name="bluetooth_recent_device">Appareils récents</string>
-    <string name="bluetooth_bounded">Appairage</string>
-    <string name="bluetooth_not_bounded">Appairés</string>
-    <string name="bluetooth_settings_title">Définir：</string>
-    <string name="bluetooth_device_disable">L\'appareil est désactivé</string>
-    <string name="open_inbound_history">Voir l\'historique entrant</string>
-    <string name="open_outbound_history">Voir l\'historique sortant</string>
+    <string name="file_size">%d Octets</string>
 </resources>

@@ -33,7 +33,7 @@
     <string name="theme_component_title_ringtone">Sonneries</string>
     <string name="theme_component_title_notification">Notifications</string>
     <string name="theme_component_title_alarm">Alarmes</string>
-    <string name="theme_component_title_phone">Thème Téléphone</string>
+    <string name="theme_component_title_contact">Thème Contacts</string>
     <string name="theme_component_title_lockstyle">Style écran de verrouillage</string>
     <string name="theme_component_title_statusbar">Barre de notification</string>
     <string name="theme_component_title_others">Autre</string>

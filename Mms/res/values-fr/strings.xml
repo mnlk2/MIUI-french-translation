@@ -315,10 +315,13 @@
     <string name="pushed_sms_category">SMS</string>
     <string name="random_pick">Au hazard</string>
     <string name="update_failed">La mise à jour a échoué</string>
-    <string name="message_title">%1$s %2$s说：</string>
-    <string name="send_to">Envoyer à：%1$s</string>
+    <string name="message_title">%1$s %2$s</string>
+    <string name="send_to">Envoyer à： %1$s</string>
+    <string name="send_to_count">%1$s envoyé avec succès</string>
+    <string name="send_to_index_contact">Envoyer: %1$s sur %2$s...</string>
     <string name="conversation_style">bubble</string>
     <string name="message_received">Reçu</string>
+    <string name="message_failed">Echoué</string>    
     <string name="message_pending">En attente</string>
     <string name="message_readed">Lu</string>
     <string name="resent_message">Retransmission</string>
@@ -364,6 +367,11 @@
     <string name="pref_edit_smsc_address">Régler le numéro de centre SMS</string>
     <string name="pref_title_filter_phone">Filtre de numéro fixe</string>
     <string name="pref_summary_filter_phone">Ajouter uniquement un numéro de téléphone mobile</string>
+    <string name="pref_key_append_signature_title">Signature</string>
+    <string name="pref_key_append_signature_summary">Ajouter la signature </string>
+    <string name="pref_key_edit_signature_title">Modifier la signature</string>
+    <string name="pref_key_signature_summary">Vous n\'avez pas réglé la signature, cliquez sur Paramètres</string>
+    <string name="pref_key_signature_hint">Veuillez entrez votre signature</string>
     <string name="enter_edit_mode">Modifier</string>
     <string name="exit_edit_mode">Quitter Modifier</string>
     <string name="check_all">Sélectionner tout</string>
@@ -373,4 +381,6 @@
     <string name="batch_bookmark_confirm_dialog_message">Sauvegarder les %1$s messages sélectionnés</string>
     <string name="batch_delete_thread_confirm_dialog_message">Supprimer les %1$s fils de discutions</string>
     <string name="batch_deleting_progress_message">Suppression de la sélection</string>
+    <string name="delete_subject">Supprimer</string>
+    <string name="messaging_intent_label">Informations écrites</string>    
 </resources>

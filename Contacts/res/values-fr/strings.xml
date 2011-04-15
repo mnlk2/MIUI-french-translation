@@ -401,10 +401,11 @@
     <string name="callrecordview_item_calls">%d appels</string>
     <string name="callrecordview_item_op_time_missed">Appels manqués</string>
     <string name="callrecordview_item_newcontact">Nouveau contact</string>
-    <string name="callrecordview_item_op_time_short_incoming">%d secondes entrant</string>
-    <string name="callrecordview_item_op_time_short_outgoing">%d secondes sortant</string>
-    <string name="callDetailsDurationFormat_incoming">%1$s minutes %2$s secondes entrant</string>
-    <string name="callDetailsDurationFormat_outgoing">%1$s minutes %2$s secondes sortant</string>
+    <string name="callrecordview_item_op_time_short_incoming">Entrant</string>
+    <string name="callrecordview_item_op_time_short_outgoing">Sortant</string>
+    <string name="callrecordview_item_op_time_only_seconds">%d Secondes</string>
+    <string name="callrecordview_item_op_time_only_minutes">%d Secondes</string>
+    <string name="callrecordview_item_op_time_minutes_seconds">%d minutes %d secondes</string>
     <string name="group_delete_confirmation">Confirmer la suppression</string>
     <string name="no_sms_availabe_contact_in_group">Aucun contacts dans ce groupe à qui envoyer un SMS</string>
     <string name="set_ringtone_for_group_members_success">Sonnerie définie avec succès</string>
@@ -440,7 +441,7 @@
     <string name="view_contact_insert">nouveau contact</string>
     <string name="view_contact_insert_or_edit">ajouter à un contact existant</string>
     <string name="view_contact_add_firewall">rejoint la liste noire</string>
-    <string name="call_logs">Historique d\'appel</string>
+    <string name="call_logs">Historique d\'appel (%d)</string>
     <string name="call_logs_show_all">Afficher tous les %d...</string>
     <string name="view_contact_call">Téléphone</string>
     <string name="view_contact_sms">SMS</string>
@@ -469,6 +470,7 @@
     <string name="check_nothing">Effacer tout</string>
     <string name="confirm_delete_title">Confirmation de la suppression</string>
     <string name="confirm_delete_message">Vous allez supprimer les %d contacts sélectionnés du téléphone.</string>
+    <string name="call_log_note">Voir log d\'appel</string>
     <string name="delete_sigle_call_log">Suppression de la liste des appels</string>
     <string name="delete_all_call_logs">Supprimer tout</string>
     <string name="delete_call_log_title">Supprimer la séléction du journal des appels</string>

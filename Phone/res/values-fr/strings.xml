@@ -502,7 +502,7 @@
     <string name="count_of_persons_in_conference">Total %d</string>
     <string name="not_connected">Non connecté</string>
     <string name="onscreenNoteText">Plus</string>
-    <string name="onscreenNoteForTxt">SMS</string>
+    <string name="onscreenNoteForTxt">Notes</string>
     <string name="onscreenNoteForCall">REC.</string>
     <string name="onscreenNoteRecordingCall">Enregistrer</string>
     <string name="onscreenKeyboard">Clavier</string>
@@ -510,8 +510,6 @@
     <string name="onscreenMoreOn">Moins</string>
     <string name="recordCall_sd_error">Erreur d\'accès à la carte SD. Inséréz la carte SD avant d\'enregistrer</string>
     <string name="recordCall_sample_prefix">MIUI _</string>
-    <string name="query_telocation_title">Localiser le numéro de téléphone</string>
-    <string name="query_telocation_sum">Rechercher l\'endroit d\'où provient l\'appel</string>
     <string name="button_query_hint">Merci d\'indiquer un numéro de téléphone</string>
     <string name="button_query">Localiser</string>
     <string name="button_clear">Vider</string>
@@ -532,8 +530,6 @@
     <string name="auto_dialpad_pref_summary">Afficher le clavier numérique pendant un appel</string>
     <string name="enable_proximity_title">Capteur de proximité</string>
     <string name="enable_proximity_summary">Utiliser le capteur de proximité durant les appels</string>
-    <string name="enforce_proximity_title">Forcer le Capteur</string>
-    <string name="enforce_proximity_summary">Forcer l\'utilisation de capteurs de proximité</string>
     <string name="crystaltalk_title">Mise en NICAM</string>
     <string name="crystaltalk_summary">Optimisation configuration audio</string>
     <string name="deleteSimEntry">Supprimer</string>
@@ -548,6 +544,8 @@
     <string name="allow_3rd_app_listen_phone_event_summary">Autoriser les applications Téléphone tiers</string>
     <string name="show_quick_contact_badge_title">Avatars</string>
     <string name="show_quick_contact_badge_summary">Montré les avatar dans la liste</string>
+    <string name="show_call_log_number_title">Afficher les numéros</string>
+    <string name="show_call_log_number_summary">Derniers appels dans la liste indique le nombre de contacts</string>
     <string name="set_smsc_address_title">Numéro du centre de messagerie</string>
     <string name="get_smsc_address_error">Impossible d\'obtenir le numéro du centre de messagerie</string>
     <string name="set_smsc_address_error">Définir le numéro du centre de messagerie</string>
