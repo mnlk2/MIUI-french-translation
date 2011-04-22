@@ -43,7 +43,10 @@
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="goto_start">Bibliothèque</string>
     <string name="goto_playback">Lect.</string>
+    <string name="send_to">Envoyer à</string>
     <string name="delete_item">Supprimer</string>
+    <string name="delete_song_item">Supprimer la chanson</string>
+    <string name="download_song_item">Télécharger Chansons</string>
     <string name="shuffle_all">Tout aléatoire</string>
     <string name="play_all">Lire tout</string>
     <string name="delete_artist_desc">%s Toutes les chansons seront définitivement supprimés de la carte SD.</string>
@@ -84,9 +87,13 @@
     <string name="ringtone_set">Ajouter %s aux sonneries.</string>
     <string name="play_selection">Lire la selection</string>
     <string name="add_to_playlist">Ajouter à la Playlist</string>
+    <string name="add_to_favorite">Ajouter aux Favoris</string>
+    <string name="delete_from_favorite">Retirer des favoris</string>
     <string name="queue">Queue</string>
     <string name="new_playlist">Nouvelle Playlist</string>
     <string name="new_playlist_name_template">Nouvelle Playlist %d</string>
+    <string name="context_menu_status_online">En ligne</string>
+    <string name="context_menu_status_local">Local</string>
     <string name="emptyplaylist">La Playlist est vide.</string>
     <string name="create_playlist_create_text">Sauver</string>
     <string name="create_playlist_overwrite_text">Cover</string>

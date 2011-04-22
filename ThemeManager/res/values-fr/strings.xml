@@ -58,6 +58,8 @@
     <string name="online_resource_select">Sélectionner</string>
     <string name="online_hotest">Populaire</string>
     <string name="online_latest">Récent</string>
+    <string name="online_hotest_short">Populaire</string>
+    <string name="online_latest_short">Récent</string>
     <string name="online_no_network">Pas de connexion réseau</string>
     <string name="online_loading">Chargement</string>
     <string name="download_failed">Téléchargement échoué !</string>

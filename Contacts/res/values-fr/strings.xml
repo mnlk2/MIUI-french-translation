@@ -2,9 +2,9 @@
 <resources>
     <string name="config_import_vcard_type">defaut</string>
     <string name="config_export_vcard_type">defaut</string>
-    <string name="config_export_dir">/sdcard</string>
-    <string name="config_export_file_prefix" />
-    <string name="config_export_file_suffix" />
+    <string name="config_export_dir">/sdcard/MIUI/contacts</string>
+    <string name="config_export_file_prefix">(</string>
+    <string name="config_export_file_suffix">)</string>
     <string name="config_export_file_extension">vcf</string>
     <string name="config_export_extensions_to_consider" />
     <string name="contactsList">Contacts</string>
@@ -475,4 +475,13 @@
     <string name="delete_all_call_logs">Supprimer tout</string>
     <string name="delete_call_log_title">Supprimer la séléction du journal des appels</string>
     <string name="delete_all_call_logs_title">Supprimer tous les enregistrements</string>
+    <string name="export_success_title">L\'exportation à réussie</string>
+    <string name="export_success_message">%d contacts exportés avec succès</string>
+    <string name="dialer_empty_text_no_call_log">Pas d\'enregistrements d\'appel</string>
+    <string name="dialer_empty_text_no_search_result">Aucun contact trouvé</string>
+    <string name="menu_remove_duplicate">Supprimer les contacts en double</string>
+    <string name="scan_duplicate_contacts">Recherche de contacts en double ...</string>
+    <string name="remove_duplicate_contacts">Suppression des contacts en double ...</string>
+    <string name="no_duplicate_contacts">il n\'y a pas de doublons</string>
+    <string name="remove_duplicate_contacts_title">Supprimer %d doublons?</string>    
 </resources>

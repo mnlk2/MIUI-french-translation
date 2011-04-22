@@ -592,6 +592,7 @@
     <string name="phoneTypeAssistant">Assistant</string>
     <string name="phoneTypeMms">MMS</string>
     <string name="eventTypeBirthday">Anniv.</string>
+    <string name="eventTypeLunarBirthday">Anniversaire lunaire</string>    
     <string name="eventTypeAnniversary">Fête</string>
     <string name="eventTypeOther">Événement</string>
     <string name="emailTypeCustom">Personnalisé</string>

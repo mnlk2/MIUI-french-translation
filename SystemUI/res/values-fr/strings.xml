@@ -33,7 +33,7 @@
     <string name="status_bar_button_reboot">Reboot</string>
     <string name="status_bar_button_shutdown">Eteindre</string>
     <string name="status_bar_time_format_12">h:mma</string>
-    <string name="status_bar_time_format_24">h:mm</string>
-    <string name="status_bar_date_format">d MMM</string>
-    <string name="status_bar_date_format_lock">E d MMM</string>    
+    <string name="status_bar_time_format_24">HH:mm</string>
+    <string name="status_bar_date_format">MMM d,</string>
+    <string name="status_bar_date_format_lock">E, MMM d</string>    
 </resources>

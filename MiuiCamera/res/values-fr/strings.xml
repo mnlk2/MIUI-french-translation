@@ -17,6 +17,7 @@
     <string name="gallery_camera_bucket_name">Photos de l\'appareil</string>
     <string name="gallery_camera_videos_bucket_name">Vidéos de la caméra</string>
     <string name="image_file_name_format">\'IMG\'_dd-MM-yyyy_HHmmss</string>
+    <string name="key_camera_antishake">CAMERA_ANTI_SHAKE</string>    
     <string name="key_camera_autofocus">CAMERA_AUTO_FOCUS</string>
     <string name="key_camera_exposure">CAMERA_EXPOSURE</string>
     <string name="key_camera_flashmode">CAMERA_FLASH_MODE</string>
@@ -26,9 +27,11 @@
     <string name="key_camera_playback">CAMERA_PLAYBACK</string>
     <string name="key_camera_recordlocation">CAMERA_RECORD_LOCATION</string>
     <string name="key_camera_referenceline">CAMERA_REFERENCE_LINE</string>
+    <string name="key_camera_screenshutter">CAMERA_SCREEN_SHUTTER</string>    
     <string name="key_camera_sound">CAMERA_SOUND</string>
     <string name="key_video_flashmode">VIDEO_FLASH_MODE</string>
     <string name="key_video_quality">VIDEO_QUALITY</string>
+    <string name="key_video_screenshutter">VIDEO_SCREEN_SHUTTER</string>    
     <string name="no_storage">Veuillez insérer une carte SD avant d\'utiliser l\'appareil photo.</string>
     <string name="not_enough_space">Votre carte SD est pleine.</string>
     <string name="pref_camera_capturespeed_10latency">Délai de 10 secondes</string>

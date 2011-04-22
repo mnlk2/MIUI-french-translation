@@ -27,7 +27,7 @@
     <string name="out_of_space">Plus d\'espace libre sur l\'écran d\'accueil.</string>
     <string name="shortcut_installed">Le raccourci \"%s\" a été créé.</string>
     <string name="shortcut_uninstalled">Le raccourci \"%s\" a été supprimé.</string>
-    <string name="shortcut_duplicate">Le raccourci \"%s\" existe déjà.</string>
+    <string name="shortcut_duplicate">Le raccourci \"%s\" existe déjà.</string>
     <string name="title_select_shortcut">Sélectionner un raccourci</string>
     <string name="title_select_live_folder">Sélectionner le dossier</string>
     <string name="all_apps_button_label">Toutes les applications</string>
@@ -84,6 +84,8 @@
     <string name="pref_render_in_truecolor_summary">Désactivez cette option, dans certains, augmente la fluidité</string>
     <string name="pref_enable_drawing_cache_title">Cache graphique</string>
     <string name="pref_enable_drawing_cache_summary">Désactivez cette option permettra de libérer plus de mémoire</string>
+    <string name="pref_icon_shadow_title">Ombrage des icônes</string>
+    <string name="pref_icon_shadow_summary">Activer/Désactiver l\'ombrage des icônes sur le bureau</string>
     <string name="pref_screen_transformation_type_title">Effets de transition de sélection d\'écran</string>
     <string name="transformation_type_classic">Classique</string>
     <string name="transformation_type_classic_no_overshoot">Classique (pas de rebond)</string>
@@ -101,7 +103,6 @@
     <string name="unknown_artist_name">Artiste Inconnu</string>
     <string name="global_search_hint">Cliquer sur Rechercher</string>
     <string name="widget_global_search">Recherche</string>
-    <string name="widget_lock">Verrouillage des touches</string>
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
