@@ -497,7 +497,7 @@
     <string name="answer">Répondre</string>
     <string name="hangup">Raccrocher</string>
     <string name="ignore">Ignorer</string>    
-    <string name="hangup_sms">Appuyer sur Menu pour rejeter l\'appel et répondre par SMS</string>
+    <string name="hangup_sms">Rép. par SMS</string>
     <string name="hangup_sms_body">Je suis actuellement occupé(e), je te/vous rappelle plus tard</string>
     <string name="count_of_persons_in_conference">Total %d</string>
     <string name="not_connected">Non connecté</string>
