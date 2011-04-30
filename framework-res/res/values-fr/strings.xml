@@ -909,7 +909,9 @@
     <string name="callNoAnswerTimeFormat">%s sonnerie(s)</string>
     <string name="callDetailsDurationFormat">%1$s minutes %2$s secondes</string>
     <string name="date_day">Date</string>
+    <string name="lunar_calendar">Calendrier lunaire</string>
     <string name="firewall_setting">Filtrage d\'appels et messages</string>
+    <string name="lunar_ling"></string>
     <string name="lunar_zheng"></string>
     <string name="lunar_yi"></string>
     <string name="lunar_er"></string>
@@ -929,6 +931,7 @@
     <string name="lunar_chu"></string>
     <string name="lunar_nian"></string>
     <string name="lunar_yue"></string>
+    <string name="lunar_year"></string>    
     <string name="sms_traffic">%d SMS envoyé ce mois ci</string>
     <string name="sms_traffic_exceeded">QUota mensuel dépassé de %d SMS</string>
     <string name="mobile_traffic">La consommation mensuel de la 3G est de %s，</string>

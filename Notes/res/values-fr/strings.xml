@@ -55,6 +55,7 @@
     <string name="error_sdcard_export">Export failed, please check SD card</string>
     <string name="error_note_not_exist">La note n\'existe pas</string>
     <string name="error_note_empty_for_clock">Sorry, can not set clock on empty note</string>
+    <string name="error_note_empty_for_send_to_desktop">Désolé, ne peut pas envoyer de note vide</string>
     <string name="success_sdcard_export">Export successful</string>
     <string name="failed_sdcard_export">Export fail</string>
     <string name="format_exported_file_location">Export text file (%1$s) to SD (%2$s) directory</string>

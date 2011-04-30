@@ -498,7 +498,6 @@
     <string name="hangup">Raccrocher</string>
     <string name="ignore">Ignorer</string>    
     <string name="hangup_sms">Rép. par SMS</string>
-    <string name="hangup_sms_body">Je suis actuellement occupé(e), je te/vous rappelle plus tard</string>
     <string name="count_of_persons_in_conference">Total %d</string>
     <string name="not_connected">Non connecté</string>
     <string name="onscreenNoteText">Plus</string>
@@ -549,6 +548,13 @@
     <string name="set_smsc_address_error">Définir le numéro du centre de messagerie</string>
     <string name="call_forwarding_number_hint">Veuillez entrer un numéro de renvoi</string>
     <string name="voice_number_hint">Veuillez entrez le numéro de boîte vocale</string>
+    <string name="predefined_hangup_sms_title">SMS prédéfini</string>
+    <string name="predefined_hangup_sms_summary">Suspendre les appels et envoyer des messages texte </string>
+    <string name="predefined_hangup_sms_body">Je ne suis pas disponible, et vous contacte ultérieurement.</string>
+    <string name="pref_dialer_list_title">Liste de composition abrégée</string>
+    <string name="pref_outgoing_call_title">Appels sortants</string>
+    <string name="pref_phone_security_title">Sécurité du téléphone</string>
+    <string name="pref_more_settings_title">Paramètres supplémentaires</string>
     <string name="contactPhoto">contact photo</string>
     <string name="goPrivate">mode privé</string>
     <string name="selectContact">sélectionner un contact</string>

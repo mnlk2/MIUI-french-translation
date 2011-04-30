@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <string name="conversation_style">bubble</string>
     <string name="app_label">Messages</string>
     <string name="new_message">Nouveau message</string>
     <string name="create_new_message">Rédiger un message</string>
@@ -306,6 +307,7 @@
     <string name="recipient_editor_count_format">%d personnes</string>
     <string name="error_state">État incompatible</string>
     <string name="error_state_text">L\'état de discussions et des bénéficiaires est incompatible. Veuillez saisir un rapport de bogue et l\'envoyer à android-sms-bugs@google.com</string>
+    <string name="new_message_arrived">Nouveau message</string>
     <string name="festival_sms_category_count_format">(%s)</string>
     <string name="festival_sms_loading">Chargement en cours ...</string>
     <string name="festival_sms_push">Recommandés</string>
@@ -319,7 +321,6 @@
     <string name="send_to">Envoyer à： %1$s</string>
     <string name="send_to_count">%1$s envoyé avec succès</string>
     <string name="send_to_index_contact">Envoyer: %1$s sur %2$s...</string>
-    <string name="conversation_style">bubble</string>
     <string name="message_received">Reçu</string>
     <string name="message_failed">Echoué</string>    
     <string name="message_pending">En attente</string>
@@ -361,8 +362,12 @@
     <string name="full_phrase">Vous avez atteint la limite de 50 phrases</string>
     <string name="delete_phrase">Supprimer phrase</string>
     <string name="phrase_confirm_delete_message">La phrase sera supprimée</string>
+    <string name="pref_title_notification_body_enabled">Afficher l\'aperçu</string>
+    <string name="pref_summary_notification_body_enabled">Prévisualisation du contenu (verrouillage de l\'écran, la barre d\'état, fenêtre pop-up)</string>
+    <string name="pref_summary_notification_body_enabled_when_secure">La configuration actuelle du mot de passe, ne permettra pas de prévisualiser le contenu des messages</string>    
     <string name="pref_title_new_message_popup">Information fenêtre pop-up</string>
     <string name="pref_summary_new_message_popup">Afficher automatiquement un pop-up qui affiche les nouveaux messages</string>
+    <string name="pref_summary_new_message_popup_when_secure">La configuration actuelle du mot de passe, n\'affichera pas la fenêtre pop-up</string>
     <string name="pref_title_wake_up_screen">Allumer l\'écran</string>
     <string name="pref_summary_wake_up_screen">Allumer l\'écran lorsque vous recevez de nouveaux messages</string>
     <string name="advanced_preferences_title">Paramètres avancés</string>

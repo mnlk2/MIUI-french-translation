@@ -25,6 +25,7 @@
     <string name="sync_plug"><font fgcolor="#ffffffff">Bienvenue sur Google Sync !</font> \nUne solution Google pour synchroniser vos données et vous permettre d\'accéder à vos contacts, rendez-vous, etc. où que vous soyez.</string>
     <string name="header_application_sync_settings">Paramètres des applications</string>
     <string name="header_manage_accounts">Gestion des comptes</string>
+    <string name="header_manage_default_accounts">Enregistrer un nouveau contact</string> 
     <string name="header_general_sync_settings">Paramètres généraux</string>
     <string name="sync_enabled">Synchronisation activée</string>
     <string name="sync_disabled">Synchronisation désactivée</string>

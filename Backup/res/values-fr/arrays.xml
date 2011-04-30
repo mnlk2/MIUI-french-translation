@@ -8,11 +8,12 @@
         <item>SMS et MMS</item>
     </string-array>
     <string-array name="system_data_label">
-        <item>Paramètres WIFI</item>
-        <item>Présentation du bureau</item>
         <item>Contacts</item>
         <item>Journal d\'appel</item>
-        <item>SMS</item>        
+        <item>SMS</item>
+        <item>Paramètres WIFI</item>
+        <item>Présentation de bureau</item>
+        <item>Notes</item>        
     </string-array>
     <string-array name="app_type_desc">
         <item> (Paramètres)</item>
@@ -21,7 +22,8 @@
     </string-array>
     <string-array name="cloud_data_label">
         <item>Contacts</item>
-        <item>Enregistrement des appels</item>
+        <item>Journal d\'appel</item>
         <item>SMS</item>
+        <item>Paramètres WIFI</item>
     </string-array>    
 </resources>

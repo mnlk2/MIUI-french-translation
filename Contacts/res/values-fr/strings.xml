@@ -426,6 +426,7 @@
     <string name="simExportNoSpace">La carte SIM a assez d\'espace pour stocker les %s contacts, mais on ne peut stocker %s</string>
     <string name="nickname_picker_name_column">Nom</string>
     <string name="nickname_picker_nickname_column">Pseudo</string>
+    <string name="not_applied">Non pris en charge</string>
     <string name="toast_for_saving_nickname">Le changement d\'adresse a été enregistré</string>
     <string name="toast_for_failed_saving_nickname">Le changement d\'adresse a échoué!</string>
     <string name="contact_card_photo_edit">Changer</string>
@@ -477,6 +478,8 @@
     <string name="delete_all_call_logs_title">Supprimer tous les enregistrements</string>
     <string name="export_success_title">L\'exportation à réussie</string>
     <string name="export_success_message">%d contacts exportés avec succès</string>
+    <string name="use_lunar_birthday">Utiliser le calendrier lunaire</string>
+    <string name="birthday_picker_reminder">Vous rappellera la date de l\'anniversaire</string>
     <string name="dialer_empty_text_no_call_log">Pas d\'enregistrements d\'appel</string>
     <string name="dialer_empty_text_no_search_result">Aucun contact trouvé</string>
     <string name="menu_remove_duplicate">Supprimer les contacts en double</string>
