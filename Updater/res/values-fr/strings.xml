@@ -29,6 +29,7 @@
     <string name="apply_existing_update_md5error_message">Erreur. Le fichier MD5 ne correspond pas</string>
     <string name="file_not_found_error_message">Le fichier n\'existe pas ou l\'accès est impossible</string>
     <string name="apply_upload_info_message">Cliquez sur Mettre à jour maintenant, le téléphone redémarrera automatiquement afin d\'appliquer la mise à jour. Si vous souhaitez sauvegarder le travail, allez dans l\application de sauvegarde avant la mise à jour.</string>
+    <string name="apply_upload_info_message_manually">Redémarrez manuellement en mode recovery, puis installez %s depuis la carte SD. Vous pouvez sauvegardez vos données puis continuer la mise à jour</string>
     <string name="notes_about_recovery">(Veuillez noter que pour obtenir les mises à jour futures par OTA, vous devez utiliser un Recovery compatible avec la ROM.)</string>
     <string name="system_backup_button_text">Sauvegarde Système</string>
     <string name="system_backup_error_message">Sauvegarder manuellement</string>

@@ -102,6 +102,7 @@
     <string name="set_wallpaper">Définir comme fond d\'écran</string>
     <string name="set_lockscreen">Définir comme fond d\'écran de verrouillage</string>
     <string name="set_contact_photo">Définir comme image de contact</string>
+    <string name="scanning_folder">Re-scanner le répertoire courant ...</string>
     <string name="apply_pic_for">Utiliser comme: </string>
     <string name="wallpaper">Fond d\'écran</string>
     <string name="email_attachment">Pièces jointes aux e-mail</string>
