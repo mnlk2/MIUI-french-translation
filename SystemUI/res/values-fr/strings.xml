@@ -35,5 +35,12 @@
     <string name="status_bar_time_format_12">h:mma</string>
     <string name="status_bar_time_format_24">HH:mm</string>
     <string name="status_bar_date_format">MMM d,</string>
-    <string name="status_bar_date_format_lock">E, MMM d</string>    
+    <string name="status_bar_date_format_lock">E, MMM d</string>
+    <string name="usb_accessory_permission_prompt">Autoriser l\'application %1$s à accéder à l\'accessoire USB ?</string>
+    <string name="usb_device_confirm_prompt">Ouvrir %1$s quand ce périphérique USB est connecté ?</string>
+    <string name="usb_accessory_confirm_prompt">Ouvrir %1$s quand cet accessoire USB est connecté ?</string>
+    <string name="usb_accessory_uri_prompt">Aucune application ne fonctionne avec cet accessoire USB. Plus d\'info sur %1$s</string>
+    <string name="title_usb_accessory">UAccessoire USB</string>
+    <string name="label_view">Voir</string>
+    <string name="always_use_accessory">Utiliser par défaut pour cet accessoire USB</string>    
 </resources>

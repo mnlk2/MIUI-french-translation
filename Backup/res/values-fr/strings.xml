@@ -96,7 +96,7 @@
     <string name="preference_primary_restore">Sélectionner le contenu de la restauration</string>
     <string name="preference_restore_summary">Tels que: journal d\'appel, contacts, SMS</string>
     <string name="preference_findlost_contact">Restaurer les contacts</string>
-    <string name="progress_restore_hint">Restauration de vos données</string>
+    <string name="progress_restore_hint">Restauration des données</string>
     <string name="cancel_restore">Annuler</string>
     <string name="local_backup_hint1">Backup contacts, messages texte, les paramètres et les données du programme système</string>
     <string name="local_backup_hint2">Enregistrer également le programme, et les données du programme</string>

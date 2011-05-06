@@ -478,8 +478,11 @@
     <string name="delete_all_call_logs_title">Supprimer tous les enregistrements</string>
     <string name="export_success_title">L\'exportation à réussie</string>
     <string name="export_success_message">%d contacts exportés avec succès</string>
-    <string name="use_lunar_birthday">Utiliser le calendrier lunaire</string>
-    <string name="birthday_picker_reminder">Vous rappellera la date de l\'anniversaire</string>
+    <string name="use_lunar_birthday">utiliser le calendrier lunaire</string>
+    <string name="birthday_picker_reminder">Rappel d\'anniversaire avec notification 3 jours avant</string>
+    <string name="birthday_remind">Rappel d\'anniversaire</string>
+    <string name="birthday_remind_notify">Aujourd\'hui, nous sommes le %s, et c\'est l\'anniversaire de %s !</string>
+    <string name="birthday_remind_3days_notify">Dans 3 jours, nous serons le %s, et ça sera l\'anniversaire de %s !</string>
     <string name="dialer_empty_text_no_call_log">Pas d\'enregistrements d\'appel</string>
     <string name="dialer_empty_text_no_search_result">Aucun contact trouvé</string>
     <string name="menu_remove_duplicate">Supprimer les contacts en double</string>

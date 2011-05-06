@@ -13,7 +13,7 @@
     <string name="backup_theme_dialog_ok">Ok</string>
     <string name="backup_theme_dialog_message">Sauvegarde le thème actuel dans : \nCarte SD/MIUI/theme/backup/backup.mtz</string>
     <string name="backup_theme_progress_message">Sauvegarde ...</string>
-    <string name="backup_theme_success_message">La sauvegarde a réussie!</string>    
+    <string name="backup_theme_success_message">La sauvegarde a réussie!</string>
     <string name="theme_description_missed">Aucune</string>
     <string name="theme_description_title_default">Par défaut</string>
     <string name="theme_description_title_customized">Personnaliser</string>
