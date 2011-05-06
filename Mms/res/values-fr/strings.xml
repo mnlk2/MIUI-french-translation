@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="conversation_style">bubble</string>
+    <string name="prefDefault_ringtone_repeat">1</string>    
     <string name="app_label">Messages</string>
     <string name="new_message">Nouveau message</string>
     <string name="create_new_message">Rédiger un message</string>
@@ -370,6 +371,8 @@
     <string name="pref_summary_new_message_popup_when_secure">La configuration actuelle du mot de passe, n\'affichera pas la fenêtre pop-up</string>
     <string name="pref_title_wake_up_screen">Allumer l\'écran</string>
     <string name="pref_summary_wake_up_screen">Allumer l\'écran lorsque vous recevez de nouveaux messages</string>
+    <string name="pref_title_ringtone_repeat">Nombre de rappel</string>
+    <string name="pref_summary_ringtone_repeat">Rappel la réception de messages toutes les 5 minutes</string>
     <string name="advanced_preferences_title">Paramètres avancés</string>
     <string name="pref_other_title">Autres</string>
     <string name="pref_advanced_settings_title">Un mode plus avancé</string>

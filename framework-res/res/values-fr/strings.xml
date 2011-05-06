@@ -22,6 +22,7 @@
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Attention</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Désolé, cette vidéo ne peut être lue sur cet appareil.</string>
+    <string name="config_statusBarComponent">com.android.systemui/com.android.systemui.statusbar.StatusBarService</string>
     <string name="config_tether_apndata" />
     <item type="string" name="default_wallpaper_component">@null</item>
     <string name="config_networkLocationProvider">com.google.android.location.NetworkLocationProvider</string>
@@ -481,6 +482,8 @@
     <string name="permdesc_vibrate">Permet à l\'application de contrôler le vibreur.</string>
     <string name="permlab_flashlight">Contrôle de la lampe de poche</string>
     <string name="permdesc_flashlight">Permet à l\'application de contrôler la lampe de poche.</string>
+    <string name="permlab_manageUsb">Gérer les préférences et les autorisations pour les périphériques USB</string>
+    <string name="permdesc_manageUsb">Permet à l\'application pour gérer les préférences et les autorisations pour les périphériques USB.</string>
     <string name="permlab_hardware_test">Tests du matériel</string>
     <string name="permdesc_hardware_test">Permet à l\'application de contrôler différents périphériques à des fins de test matériel.</string>
     <string name="permlab_callPhone">Appel direct des numéros de téléphone</string>
@@ -544,6 +547,10 @@
     <string name="permlab_changeWifiMulticastState">autoriser la réception de données en Wi-Fi multidiffusion</string>
     <string name="permdesc_changeWifiMulticastState">Autorise une application à recevoir des paquets qui ne sont pas directement adressés à votre mobile. Cela peut être utile pour la recherche de services disponibles à proximité. Consomme plus que le mode non multidiffusion.</string>
     <string name="permlab_bluetoothAdmin">Gestion Bluetooth</string>
+    <string name="permlab_accessWimaxState">view WiMAX state</string>
+    <string name="permdesc_accessWimaxState">Allows an application to view the information about the state of WiMAX.</string>
+    <string name="permlab_changeWimaxState">change WiMAX state</string>
+    <string name="permdesc_changeWimaxState">Allows an application to connect to and disconnect from WiMAX network.</string>
     <string name="permdesc_bluetoothAdmin">Permet à une application de configurer le téléphone Bluetooth local, d\'identifier des périphériques distants et de les associer au téléphone.</string>
     <string name="permlab_bluetooth">Création de connexions Bluetooth</string>
     <string name="permdesc_bluetooth">Permet à une application d\'obtenir la configuration du téléphone Bluetooth local et de créer et accepter des connexions à des appareils associés.</string>
