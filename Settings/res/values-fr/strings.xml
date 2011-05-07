@@ -808,7 +808,6 @@
     <string name="runningservicedetails_stop_dlg_text">Are you sure you want to stop this system service? If you do, some features of your phone may stop working correctly until you power it off and then on again.</string>
     <string name="language_settings">Langue et clavier</string>
     <string name="language_keyboard_settings_title">Paramètres de langue et clavier</string>
-
     <string name="language_settings_summary">Définir la langue et la région, la saisie de texte et la correction automatique</string>
     <string name="language_category">Paramètres régionaux</string>
     <string name="text_category">Paramètres du texte</string>
