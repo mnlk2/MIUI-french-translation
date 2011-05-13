@@ -27,6 +27,7 @@
     <string name="menu_sync">Synchroniser</string>
     <string name="menu_sync_cancel">Annuler la synchronisation</string>
     <string name="menu_setting">Paramètres</string>
+    <string name="menu_search">Rechercher</string>
     <string name="menu_edit">Modifier</string>
     <string name="menu_delete">Supprimer</string>
     <string name="menu_font_size">Taille police</string>
@@ -77,6 +78,7 @@
     <string name="preferences_last_sync_time_format">dd-MM-yyyy hh:mm:ss</string>
     <string name="preferences_add_account">Ajouter un compte</string>
     <string name="preferences_menu_change_account">Modifier le compte</string>
+    <string name="preferences_menu_remove_account">Supprimer le compte de synchronisation</string>
     <string name="preferences_menu_cancel">Annuler</string>
     <string name="preferences_button_sync_immediately">Synchroniser immédiatement</string>
     <string name="preferences_button_sync_cancel">Annuler la synchronisation</string>
@@ -94,6 +96,11 @@
     <string name="button_check">Tous</string>
     <string name="button_check_none">Aucun</string>
     <string name="button_move">Déplacer</string>
-    <string name="call_record_folder_name">Call notes</string>
-    <string name="hint_foler_name">Input name</string>
+    <string name="call_record_folder_name">Notes d\'appels</string>
+    <string name="hint_foler_name">Saisir un nom</string>
+    <string name="search_label">Rechercher Notes</string>
+    <string name="search_hint">Rechercher Notes</string>
+    <string name="search_setting_description">Texte dans vos notes</string>
+    <string name="search">Notes</string>
+    <string name="search_empty">Notes correspondantes</string>    
 </resources>
