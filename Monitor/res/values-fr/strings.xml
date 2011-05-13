@@ -97,10 +97,10 @@
     <string name="opt_reject_all">Rejeter tout</string>
     <string name="opt_reject_stranger">Rejeter inconnu</string>
     <string name="opt_reject_list">Rejeter liste noire</string>
-    <string name="opt_accept_starred">Accepter les contacts connus</string>
-    <string name="opt_accept_list">Seules certaines personnes peuvent me contacter</string>
+    <string name="opt_accept_starred">Accepter connus</string>
+    <string name="opt_accept_list">Liste blanche</string>
     <string name="show_notification">Afficher notification</string>
-    <string name="anti_stranger_title">Lutte contre le harcèlement téléphonique</string>
+    <string name="anti_stranger_title">Anti harcèlement</string>
     <string name="anti_stranger_summary">Seuls le carnet d\'adresse peut me contacter</string>
     <string name="show_notification_summary">Affiche l\'état du filtrage dans la barre de notification</string>
     <string name="ms_body">Contenu du message</string>
